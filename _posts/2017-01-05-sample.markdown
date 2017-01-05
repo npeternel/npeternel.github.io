@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Sample"
+date: 2017-01-05
+thumbnail: DSC_0327.jpg
+---
+
+Sample post

@@ -1,0 +1,40 @@
+body {
+	font-family: ABeeZee;
+}
+
+.navbar-custom {
+	background: #f1f1f1;
+}
+
+.navbar-custom .navbar-toggle .icon-bar {
+	background-color: #111;
+}
+
+@media screen and (max-height: 450px) {
+	.menu {padding-top: 15px;}
+}
+
+.banner h2 {
+	text-align: center;
+}
+
+.banner p {
+	text-align: center;
+}
+
+
+#footer {
+	display: block;
+	text-align: center;
+	font-size: 30px;
+}
+
+#footer a {
+	text-decoration: none;
+	color: #818181;
+	padding: 0 10px;
+}
+
+#footer a:hover {
+	color: #f1f1f1;
+}

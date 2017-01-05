@@ -1,0 +1,16 @@
+title: Nicole Peternel
+email: nkpeternel@berkeley.edu
+description: "Personal Website"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://nicolepeternel.com" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  npeternel
+facebook_username: nicki.peternel
+linkedin_username: nicole-peternel
+
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock

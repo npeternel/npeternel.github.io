@@ -1,0 +1,14 @@
+<footer id="footer">
+	{% if site.facebook_username %}
+	<a href="https://facebook.com/{{ site.facebook_username }}" target="_blank" <i class="fa fa-facebook"></i></a>
+	{% endif %}
+	{% if site.github_username %}
+	<a href="https://github.com/{{ site.github_username }}" target="_blank" <i class="fa fa-github"></i></a>
+	{% endif %}
+	{% if site.linkedin_username %}
+	<a href="https://linkedin.com/in/{{ site.linkedin_username }}" target="_blank" <i class="fa fa-linkedin-square"></i></a>
+	{% endif %}
+	{% if site.email %}
+	<a href="mailto:{{ site.email }}" <i class="fa fa-envelope"></i></a>
+	{% endif %}
+</footer>
