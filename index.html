@@ -3,13 +3,24 @@ layout: default
 title: Home
 ---
 
-{% for post in site.posts limit:1 %}
-<div>
+<div class="banner">
+    <h1>{{ site.title }}</h1>
+    <p>{{ site.bio }}</p>
+</div>
 
-	<img src="./assets/images/{{ post.thumbnail }}" class="img-responsive" alt="">
-	<a href='{{ post.url }}'>{{ post.title }}</a>
-	<p>{{ post.date | date_to_long_string }}</p>
+{% for post in site.posts limit:3 %}
+<div class="thumbnail">
+	<a href="{{ post.url }}"><img src="./assets/images/{{ post.thumbnail }}" class="img-responsive" alt=""></a>
+	<h3>{{ post.title }}</h2>
+	<!--<p>{{ post.date | date_to_long_string }}</p>-->
 </div>
 {% endfor %}
+
+<div class="more">
+	<!--<a href="archive.html">View More Posts</a>-->
+	<br>
+	<br>
+	
+</div>
 
 

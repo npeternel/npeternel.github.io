@@ -1,25 +1,120 @@
 body {
-	font-family: ABeeZee;
+	font-family: Roboto condensed;
+	height: 100%;
+}
+
+a {
+	color: #e67300;
+}
+
+h2 {
+	font-size: 40px;
+}
+
+a:hover {
+	color: #ff9933;
+	text-decoration: none;
+}
+
+a:focus {
+	text-decoration: none;
 }
 
 .navbar-custom {
 	background: #f1f1f1;
+	font-size: 15px;
 }
 
 .navbar-custom .navbar-toggle .icon-bar {
-	background-color: #111;
+	background-color: #e67300;
 }
 
-@media screen and (max-height: 450px) {
-	.menu {padding-top: 15px;}
-}
-
-.banner h2 {
+.banner h1 {
 	text-align: center;
 }
 
 .banner p {
 	text-align: center;
+}
+
+.thumbnail {
+	position: relative;
+	width: 100%;
+}
+.thumbnail img {
+	
+}
+
+.thumbnail h3 {
+	position: absolute;
+	text-align: center;
+	top: 100px;
+	width: 100%;
+	color: white;
+	font-size: 60px;
+}
+
+.thumbnail p {
+	position: absolute;
+	text-align: center;
+	top: 160px;
+	width: 100%;
+	color: white;
+	font-size: 20px;
+}
+
+.more {
+	text-align: center;
+	width: 100%;
+}
+
+.about {
+	right: 0;
+    left: 0;
+    margin-right: auto;
+    margin-left: auto;
+	text-align: center;
+	width: 400px;
+}
+
+.about p {
+	margin-top: 5px;
+}
+
+.about .panel-group {
+	width: 400px;
+	margin: 0 auto;
+}
+
+.about .panel > .panel-heading {
+	background-color: #818181;
+	color: white;
+}
+
+.about .panel .panel-heading .panel-title a:hover {
+	color: #e6e6e6;
+}
+
+#profile {
+	border-radius: 50%;
+	width: 100px;
+	margin: 0 auto;
+}
+
+.gallery {
+	width: 100%;
+}
+
+#wrap {
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0 auto -60px;
+}
+
+#push,
+#footer {
+	height: 60px;
 }
 
 
@@ -31,10 +126,9 @@ body {
 
 #footer a {
 	text-decoration: none;
-	color: #818181;
 	padding: 0 10px;
 }
 
 #footer a:hover {
-	color: #f1f1f1;
+	color: #ff9933;
 }

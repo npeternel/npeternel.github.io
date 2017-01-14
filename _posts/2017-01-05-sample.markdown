@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "Sample"
+title: "'Seattle Without the Rain'"
 date: 2017-01-05
 thumbnail: DSC_0327.jpg
 ---
 
 Sample post
+
+###Important
