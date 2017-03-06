@@ -42,6 +42,26 @@ a:focus {
 	text-align: center;
 }
 
+img {
+	display: block;
+	width: 50%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.triple {
+	width: 50%;
+}
+
+img + em {
+	text-align: center;
+	display: block;
+}
+
+.post body {
+	margin-left: 6px;
+}
+
 .thumbnail {
 	position: relative;
 	width: 100%;
@@ -115,6 +135,7 @@ a:focus {
 	height: auto !important;
 	height: 100%;
 	margin: 0 auto -60px;
+	margin-left: 6px;
 }
 
 #push,

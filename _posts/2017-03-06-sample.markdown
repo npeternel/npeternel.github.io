@@ -1,16 +1,46 @@
 ---
 layout: post
-title: "2 Weeks on the South Island of New Zealand"
+title: "2 Weeks on New Zealand's South Island"
 date: 2017-03-06
 thumbnail: DSC_0327.jpg
 ---
-({{site.url}}/assets/images/jucy.jpg)
-Before starting school at Auckland University, my friend Zora and I spent 2 weeks roadtripping throughout the South Island of New Zealand. Here, I will be sharing my perspective of our unforgettable experience.
+![jucy](/assets/images/jucy.jpg)
+Before starting school at Auckland University, my friend Zora and I spent 2 weeks roadtripping throughout the South Island of New Zealand. A lot of people told us that 2 weeks just wouldn't be enough time. And, yes, while there are SO many more things we weren't able to do because of time, we still felt like we saw a little bit of everything. Here, I will be sharing the details of our trip and my perspective of our unforgettable experience. For the tl;dr, you can simply read the headings of each day and click <a href="#tips">here</a> for the advice I would give to anyone about to travel throughout the South Island.
 
-Day 0
+Day 0: Flight into Christchurch
 ---
 We started our trip by taking a short 1 hour flight from Auckland to Christchurch, where we would begin and end our travels. We were delayed at the airport because of troubles with our rental car but eventually picked up our Lil Jucy, a humble Fiat Punto (shown above), and started adjusting to life on the opposite side of the road. We purchased a tent on trade.me (similar to Craigslist) and were able to pick it up before driving over to our hostel, the first one that we both had ever stayed at! We only had a few short hours before it got dark but we got some delicious Thai food and walked throughout the City Centre. As we had heard from many others, Christchurch is a city still under major construction after the devastating earthquake in 2011. While walking around, I felt a lot of hope for the potential this city carried, but I also felt quite a bit of sadness for all the progress that still needed to be made. We arrived on a Tuesday, so many businesses were closed early. However, on one particular street, we saw several small restaurants open. We wondered why so many people were out on a weeknight until we realized it was Valentine's Day... so we got gelato to console ourselves.
+![christchurch](/assets/images/christchurch.jpg) 
+*Christchurch under construction*
 
-Day 1
+Day 1: Lake Tekapo, Lake Pukaki, Mt. Cook
 ---
-We began the day by visiting Countdown, one of the major grocery store chains, and planning meals that didn't require refrigeration or hot water. We mostly stocked up on bread, tuna, granola bars, and rice crackers. It was quite a humbling moment for me, honestly. We enjoyed our "last supper" at Denny's and then started on the road. Our very first stop was Lake Tekapo, which was an incredible way to kick off our trip. The lake's unique shade of blue made it one of my favorite lakes in the whole South Island. We discovered in our guide book that there were nearby hot springs, so we spent a few hours enjoying the varying temperatures of the Tekapo Springs that overlooked the lake. We hopped back into the car to drive to Mt. Cook before sundown. On the way, we stopped at Lake Pukaki and were lucky enough to see Mt. Cook from the lakeside. An hour later, we were in Mt. Cook National Park, preparing for our first night of camping. As the sun went down, we started to see the stars appear and were blown away. Little did we know that in just a few short minutes, millions more stars would appear, marking my favorite moment of the entire trip. 
+We began the day by visiting Countdown, one of the major grocery store chains, and planning meals that didn't require refrigeration or hot water. We mostly stocked up on bread, tuna, granola bars, and rice crackers. It was quite a humbling moment for me, honestly. We enjoyed our "last supper" at Denny's and then started on the road. Our very first stop was Lake Tekapo, which was an incredible way to kick off our trip. The lake's unique shade of blue made it one of my favorite lakes in the whole South Island. We discovered in our guide book that there were nearby hot springs, so we spent a few hours enjoying the varying temperatures of the Tekapo Springs that overlooked the lake. We hopped back into the car to drive to Mt. Cook before sundown. On the way, we stopped at Lake Pukaki and were lucky enough to see Mt. Cook from the lakeside. An hour later, we were in Mt. Cook National Park, preparing for our first night of camping. As the sun went down, we started to see the stars appear and were blown away. Little did we know that in just a few short minutes, millions more stars would appear, marking my favorite moment of the entire trip.
+![tekapo](/assets/images/tekapo.jpg){:class="triple"}
+*Church of the Good Shepherd and Lake Tekapo*
+![pukaki](/assets/images/pukaki.jpg){:class="triple"}
+*Mt. Cook seen from Lake Pukaki*
+![mtcook1](/assets/images/mtcook1.jpg){:class="triple"}
+*Mt. Cook National Park*
+![mtcook](/assets/images/mtcook.jpg){:class="triple"}
+*Night sky before dark*
+
+Day 2: Dunedin
+---
+We spent some of the morning walking to the Tasman Glacier (which, plot twist!!! basically doesn't exist) and then began our drive to Dunedin. We stayed at Hogwartz hostel, one of our favorites, and walked around Dundedin. This ended up being my favorite city we visited for its youthful vibes contrasted with Victorian architecture. We made good use of the city's beer opportunities by splitting a pitcher amongst ourselves AND spontaneously taking a brewery tour (on different days, of course). After our tour, we have always held a special place for Speights in our hearts.
+
+Day 3: Lake Te Anau
+---
+Continuining with our camping/hostel pattern, we found a campsite and weren't expecting much since it was such a last minute find. We ended up choosing a location right by Lake Te Anau with an incredible view of the mountains (and the stars at night!). Unfortunately, this is where we were introduced to sandflies and suffered the first of many bites to come. Due to poor planning, we had to wake up bright and early at 5am the next morning to drive to Milford Sound for our morning kayak.
+
+Day 4: Milford Sound
+---
+Despite the early morning, we arrived at Milford Sound excited and ready to 
+
+<a name="tips"></a>
+
+The Takeaways...
+---
+For anyone traveling throughout the South Island, here are the main things I would keep in mind:
+* *SANDFLIES* : these stupid little pests were probably my least favorite part of the whole 2 weeks. They like to be near water, so you're most likely to find them on the West Coast but honestly, I feel like they followed me the entire time. The best thing to do is use repellant and wear long sleeves but be careful... sometimes they would even bite me through my thin socks! The bites can flare up and itch at random times.
+* Paper maps/guidebooks: I'm used to using Google for everything: maps, accommodation searching, drive times, etc. However, on this trip, we faced limited data, limited cell service, and limited battery life, all of which point to paper guides as a huge help. My friend gave me the Lonely Planet New Zealand Guidebook for my birthday last year and it was essential to finding hostels and other essential information.
