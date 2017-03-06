@@ -7,4 +7,4 @@ thumbnail: DSC_0327.jpg
 
 Sample post
 
-###Important
+*Important*
