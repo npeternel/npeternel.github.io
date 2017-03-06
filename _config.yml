@@ -2,7 +2,7 @@ title: Nicole Peternel
 email: nkpeternel@berkeley.edu
 description: "Personal Website"
 bio: ""
-baseurl: "http://nicolepeternel.com" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://nicolepeternel.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  npeternel
 facebook_username: nicki.peternel

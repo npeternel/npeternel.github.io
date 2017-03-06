@@ -1,15 +1,19 @@
 body {
 	font-family: Roboto condensed;
 	height: 100%;
-	font-size: 20px;
+	font-size: 15px;
 }
 
 a {
 	color: #e67300;
 }
 
-h2 {
-	font-size: 40px;
+h1 {
+	text-align: center;
+}
+
+h4 {
+	text-align: center;
 }
 
 a:hover {
