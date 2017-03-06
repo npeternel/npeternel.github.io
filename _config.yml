@@ -10,6 +10,8 @@ linkedin_username: nicole-peternel
 
 # Build settings
 markdown: kramdown
+kramdown:  
+  parse_block_html: true
 gems:
   - jekyll-feed
 exclude:
