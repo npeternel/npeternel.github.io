@@ -1,7 +1,7 @@
 body {
 	font-family: Roboto condensed;
 	height: 100%;
-	font-size: 15px;
+	font-size: 16px;
 }
 
 a {
@@ -44,22 +44,20 @@ a:focus {
 
 img {
 	display: block;
-	width: 50%;
 	margin-right: auto;
 	margin-left: auto;
 }
 
 .triple {
 	width: 50%;
+	margin-top: 8px;
+	margin-bottom: 8px;
 }
 
 img + em {
 	text-align: center;
 	display: block;
-}
-
-.post body {
-	margin-left: 6px;
+	font-size: 12px;
 }
 
 .thumbnail {
@@ -135,7 +133,16 @@ img + em {
 	height: auto !important;
 	height: 100%;
 	margin: 0 auto -60px;
-	margin-left: 6px;
+}
+
+#wrap p {
+	text-align: center;
+	margin-right: 5%;
+	margin-left: 5%;
+}
+
+#wrap h2 {
+	text-align: center;
 }
 
 #push,
