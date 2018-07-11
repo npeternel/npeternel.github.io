@@ -2,11 +2,11 @@
 layout: post
 title: "An Overview of New Zealand's North Island"
 date: 2017-03-31
-thumbnail: thumb.jpg
+thumbnail: north/thumb.jpg
 ---
 
 <div class="topdiv">
-![top](/assets/images/thumb.jpg){:class="top"}
+![top](/assets/images/north/thumb.jpg){:class="top"}
 {:#top}
 </div>
 
@@ -14,35 +14,36 @@ During my semester abroad at Auckland University, I had a 2 week mid-semester br
 
 Cape Reinga
 ---
-![christchurch](/assets/images/christchurch.jpg){:class="triple"}
+On a weekend trip, I drove up with two friends all the way to the most northern tip of New Zealand, Cape Reinga. We stayed in an Airbnb on the Karikari Peninsula so we could easily drive around the area.
+![Sand Dunes](/assets/images/north/dunes.jpg){:class="triple"}
 *Te Paki Sand Dunes*
-On a weekend trip, I drove up with two friends all the way to the most northern tip of New Zealand, Cape Reinga. We stayed in an Airbnb on the Karikari Peninsula so we could easily drive around the area. We got to slide down giant sand dunes and see the sunset at the Cape Reinga lighthouse.
-![christchurch](/assets/images/christchurch.jpg){:class="triple"}
-*Cape Reinga*
+We got to slide down giant sand dunes and see the sunset at the Cape Reinga lighthouse.
+![Cape Reinga](/assets/images/north/reinga.jpg){:class="triple"}
+*Cape Reinga at sunset*
 On our drive back down to Auckland, we made a large detour to see New Zealand's oldest Kauri tree.
-Overall, I am glad I got to check these three things off my New Zealand bucket list, but the drive was very much out of the way so if I were doing a trip around the North Island (which would probably start in Auckland), I'm not sure I would drive all the way up just for Cape Reinga.
-![christchurch](/assets/images/christchurch.jpg){:class="triple"}
-*Kauri Tree*
+Overall, I am glad I got to check these three things off my New Zealand bucket list, but the drive was very much out of the way. If I were doing a trip around the North Island (which would probably start in Auckland), I'm not sure I would drive all the way up just for this.
 
 Bay of Islands
 ---
-![christchurch](/assets/images/christchurch.jpg){:class="triple"}
-*On a sailboat*
-I went to the Bay of Islands twice and by far the must-do activity is go sailing. The first time, we simply hiked and walked around but that won't get you out onto the water to see what this area is all about. Though this is north of Auckland and "out of the way" of a journey throughout New Zealand, I would say that if you are willing to spend the money to go out sailing, it would be worth it. Both times, I stayed in Paihia, a cute little town on the water which has a great outdoor market of goods if you're there at the right time.
+![Sailboat](/assets/images/north/sailboat.jpg){:class="triple"}
+*Our sailboat stopped at an island to allow us to swim and snorkel*
+I went to the Bay of Islands twice and learned that the must-do activity there is sailing. The first time, I simply hiked and walked around but that won't get you out onto the water to see what this area is all about. Though this is north of Auckland and "out of the way" of a journey throughout New Zealand, I would say that if you are willing to spend the money to go out sailing, it would be worth it. Both times, I stayed in Paihia, a cute little town on the water which has a great outdoor market of goods if you're there at the right time.
+![Rainbow Falls](/assets/images/north/rainbow.jpg){:class="triple"}
+*Rainbow Falls*
 The area is also known for its waterfalls. If you are feeling a bit adventurous, I would highly recommend going to the Rainbow Falls in Kerikeri. You can swim inside and, if you're dumb like us, jump off into the water.
-![christchurch](/assets/images/christchurch.jpg){:class="triple"}
-*Jumping through the waterfall*
 
 Auckland
 ---
-![christchurch](/assets/images/christchurch.jpg){:class="triple"}
+![Ferry](/assets/images/north/ferry.jpg){:class="triple"}
 *Ferry ride*
 Even though this not somewhere I ever travelled to since I lived here, it was my home base for the semester so I got to know it fairly well and can give my feedback. To be quite honest, apart from starting or ending your travels, I wouldn't spend too much time here. There are things to do (go up the Sky Tower, take a ferry to the nearby islands, visit museums) but they aren't as unique as the other excursions you could experience in different parts of the country. New Zealand is all about nature, not its cities. My recommendation would be to stay a night or two just to gather your bearings when you first fly in, for example, and then start heading out to the rest of the country.
 (Note: Auckland is where I started my Kiwi Experience trip so all the following locations are in the order that I visited them on this one trip)
 
 Coromandel
 ---
-The Coromandel Peninsula is a beautiful area that many Kiwis take advantage of for beach holidays. It is home to Hot Water Beach, a natural phenomenon I had never experienced before. Essentially, you bring a shovel out to the beach, dig yourself a little hole, and then bam- you got yourself a hot tub. The geothermal activity underneath the beach heats up the water (be careful! it can be too hot sometimes) allowing people to make their own spas. The Coromandel is also home to Cathedral Cove, most well-known for its appearance in the Chronicles of Narnia. When I visited, the beach was closed from a recent storm, so I kayaked past it and still got to see it.
+![Hot Water Beach](/assets/images/north/hotwater.jpg){:class="triple"}
+*Digging holes on Hot Water Beach at sunrise*
+The Coromandel Peninsula is a beautiful area that many Kiwis take advantage of for beach holidays. It is home to Hot Water Beach, a natural phenomenon unlike anything I had never experienced before. Essentially, you bring a shovel out to the beach, dig yourself a little hole, and then bam! - you got yourself a hot tub. The geothermal activity underneath the beach heats up the water (be careful! it can be too hot sometimes) allowing people to make their own spas. The Coromandel is also home to Cathedral Cove, most well-known for its appearance in the Chronicles of Narnia. When I visited, the beach was closed from a recent storm, so I kayaked past it and still got to see it.
 
 Waitomo
 ---
@@ -50,15 +51,28 @@ Waitomo is a stop really only for one thing and that is the glow worm caves. I h
 
 Rotorua
 ---
-Rotorua is a place you could probably spend a couple days in. It's not the cleanest city but it offers a lot of unique tourist activities. It is most well-known for its geothermal activity, so there lots of geysers and such that you can visit (beware: it smells like rotten eggs). I fulfilled my childhood dream of Zorbing, which is basically rolling down a hill in a giant hamster ball. There are also Mario Kart-like karts you can ride here (I did them in Queenstown- a ton of fun!). Lastly, Rotorua offers the quintessential tourist activity of experiencing the native culture. New Zealand was inhabited by the native Maori before England came over. They have done a MUCH better job of preserving their native culture than the US has. The Tamaki Village is run by a Maori family. They give you a great overview of Maori culture, from fighting to dancing to playing, and end the night with a wonderful hangi feast, which is where they cook the food underground. If you only have one chance to immerse yourself in the Maori culture while traveling in New Zealand, let this be the place.
+![Zorbing](/assets/images/north/zorb.gif){:class="triple"}
+*Zorbing!!!*
+Rotorua is a place you could probably spend a couple days in. It's not the cleanest city but it offers a lot of unique tourist activities. It is most well-known for its geothermal activity, so there lots of geysers and such that you can visit (beware: it smells like rotten eggs). I fulfilled my childhood dream of Zorbing, which is basically rolling down a hill in a giant hamster ball. There are also Mario Kart-like karts you can ride here (I did them in Queenstown- a ton of fun!).
+![Tamaki Village](/assets/images/north/tamaki.jpg){:class="triple"}
+*Performance at Tamaki Village*
+Lastly, Rotorua offers the quintessential tourist activity of experiencing the native culture. New Zealand was inhabited by the native Maori before England came over. They have done a MUCH better job of preserving their native culture than the US has. The Tamaki Village is run by a Maori family. They give you a great overview of Maori culture, from fighting to dancing to playing, and end the night with a wonderful hangi feast, which is where they cook the food underground. If you only have one chance to immerse yourself in the Maori culture while traveling in New Zealand, let this be the place.
 
 Mt. Maunganui
 ---
+![Mt. Maunganui](/assets/images/north/mount.jpg){:class="triple"}
+*View from the top of the Mount*
 Mt. Maunganui is not a typical place tourists would visit– I would argue its more of a vacation spot for the Kiwis. I traveled over here to meet a friend from school who lived in the area. It is a very beautiful, beach-y area with a must-do hike up the Mount, but probably out of the way for someone road-tripping through the country.  
 
 Taupo
 ---
-Taupo is probably my favorite city on the North Island. It sits next to a beautiful lake and has the right balance of local and tourist vibes. There are excursions you can take on the lake (I went on a sailboat) and also more adventurous excursions, such as the Tongariro Crossing or skydiving. I didn't get the chance to go skydiving but I did do the crossing and would definitely recommend it if you are in decent shape. There are several places you can stay if you want to do the Crossing; Taupo is just one option. We had a bus take us over early in the morning and spent practically all day hiking one of the best walks in New Zealand. It is challenging (they didn't name one set of stairs the Devil's Staircase for nothing) but it is full of amazing views. Make sure you bring plenty of water and snacks and layers, as you would any hike.
+![Tongariro Crossing](/assets/images/north/tongariro.jpg){:class="triple"}
+*Emerald Lake on the Tongariro Crossing*
+![Mt. Doom](/assets/images/north/doom.jpg){:class="triple"}
+*Mt. Doom also on the Crossing*
+Taupo is probably my favorite city on the North Island. It sits next to a beautiful lake and has the right balance of local and tourist vibes. Taupo is also  home to the World's Best McDonald's!! There are excursions you can take on the lake (I went on a sailboat) and also more adventurous excursions, such as the Tongariro Crossing or skydiving. I didn't get the chance to go skydiving but I did do the crossing and would definitely recommend it if you are in decent shape. There are several places you can stay if you want to do the Crossing; Taupo is just one option. We had a bus take us over early in the morning and spent practically all day hiking one of the best walks in New Zealand. It is challenging (they didn't name one set of stairs the Devil's Staircase for nothing) but it is full of amazing views. Make sure you bring plenty of water and snacks and layers, as you would any hike.
+![Huka Falls](/assets/images/north/huka.jpg){:class="triple"}
+Huka Falls is also an incredible sight and located just outside of Taupo. It is easily the fastest and most powerful water stream I have ever seen.
 
 River Valley
 ---
@@ -66,6 +80,8 @@ River Valley was basically a stopover in the middle of nowhere on our Kiwi Exper
 
 Wellington
 ---
+![Cable Car](/assets/images/north/cablecar.gif){:class="triple"}
+*Cable Car overlooking Wellington*
 Wellington is the capital of New Zealand and mostly known as a student-friendly city. As I mentioned with Auckland, New Zealand isn't known for their cities but Wellington is a place you can definitely spend a night or two in. There are museums, great restaurants, a cable car, etc. This is also where you can take a ferry to the South Island if you are continuing your trip. For me, Wellington was as far south as I went on my trip– I headed back up north after this.
 
 <a name="tips"></a>
@@ -73,6 +89,6 @@ Wellington is the capital of New Zealand and mostly known as a student-friendly 
 The Takeaways...
 ---
 For anyone traveling throughout the North Island, here are the main things I would keep in mind:
-* {: .takeaway} Plan out your route well. Unlike the South Island, where you can cut across the island at some points or make a nice giant loop, on the North Island, things are very spread out vertically. If you have the time, go up north from Auckland but recognize that it will be "out of the way" if you are ultimately heading South.  
-* {: .takeaway} Paper maps/guidebooks: I'm used to using Google for everything: maps, accommodation searching, drive times, etc. However, on this trip, we faced limited data, limited cell service, and limited battery life, all of which made paper guides our biggest source of help. A friend gave me the Lonely Planet New Zealand Guidebook for my birthday last year and it was essential to finding hostels and other information.
-* {: .takeaway} Spontaneity: this is something I'm really bad at but Zora is really good at, which I definitely think made our trip so much better. Even though we had to plan things like kayaking or the swing, some of the coolest moments we had were completely unplanned. We would see a sign that intrigued us or would want to explore more of an area so we would just get off the highway and go explore. New Zealand offers so much more than just the touristy spots you've read about. For me, its hidden treasures are what make it so beautiful.
+* {: .takeaway} Plan out your route well. Unlike the South Island, where you can cut across the island at some points or make a nice giant loop, on the North Island, things are very spread out vertically. If you have the time, go up north from Auckland but recognize that it will be "out of the way" if you are ultimately heading South.
+* {: .takeaway} Spend a little money: While you may definitely spend money on big excursions on the South Island (especially in Queenstown), I found that the North Island might require a little bit more flexibility in budget. Things like sailing in the Bay of Islands and Taupo, glow worm caves, the Tongariro Crossing (need to pay for the bus pickup and drop-off if you don't drive), and Hobbiton (which I didn't visit but my dad and brother did and LOVED it) are all things that are completely worth the experience but do require some funds. There aren't as many free things to see and do in the North as compared to the South.
+* {: .takeaway} Paper maps/guidebooks: this is a tip I also included for the South Island but it still applies. I'm used to using Google for everything: maps, accommodation searching, drive times, etc. However, on this trip, we faced limited data, limited cell service, and limited battery life, all of which made paper guides our biggest source of help. A friend gave me the Lonely Planet New Zealand Guidebook for my birthday last year and it was essential to finding hostels and other information.
