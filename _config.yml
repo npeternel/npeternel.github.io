@@ -1,4 +1,4 @@
-title: Nicole Peternel
+title: Nicole Peternel's Personal Website
 email: nkpeternel@berkeley.edu
 description: "Personal Website"
 bio: ""
@@ -10,7 +10,7 @@ linkedin_username: nicole-peternel
 
 # Build settings
 markdown: kramdown
-kramdown:  
+kramdown:
   parse_block_html: true
 gems:
   - jekyll-feed

@@ -4,8 +4,11 @@ title: "2 Weeks on New Zealand's South Island"
 date: 2017-03-06
 thumbnail: thumb.jpg
 ---
-![jucy](/assets/images/jucy.jpg){:class="triple"}
+![top](/assets/images/thumb.jpg){:class="top"}
+{:#top}
+
 Before starting my semester abroad at Auckland University, my friend Zora and I spent 2 weeks road-tripping throughout the South Island of New Zealand. A lot of people told us that 2 weeks just wouldn't be enough time. And, yes, while there are  many things we had to skip, we still felt like we saw a little bit of everything and got a good sense of what the South Island has to offer. Here, I will be sharing the details of our trip and my perspective of our unforgettable experience. For the tl;dr, you can simply read the headings of each day and click <a href="#tips">here</a> for the advice I would give to anyone about to travel throughout the South Island.
+![jucy](/assets/images/jucy.jpg){:class="triple"}
 
 Day 0: Flight into Christchurch
 ---
@@ -95,6 +98,6 @@ After all the driving we'd done in the last 2 weeks, we still had one more leg: 
 The Takeaways...
 ---
 For anyone traveling throughout the South Island, here are the main things I would keep in mind:
-* *SANDFLIES* : these stupid little pests were probably my least favorite part of the whole 2 weeks. They like to be near water, so you're most likely to find them on the West Coast but honestly, I feel like they followed me the entire time. The best thing to do is use repellant and wear long sleeves but be careful... sometimes they would even bite me through my thin socks! The bites can flare up and itch at random times.
-* Paper maps/guidebooks: I'm used to using Google for everything: maps, accommodation searching, drive times, etc. However, on this trip, we faced limited data, limited cell service, and limited battery life, all of which made paper guides our biggest source of help. A friend gave me the Lonely Planet New Zealand Guidebook for my birthday last year and it was essential to finding hostels and other information.
-* Spontaneity: this is something I'm really bad at but Zora is really good at, which I definitely think made our trip so much better. Even though we had to plan things like kayaking or the swing, some of the coolest moments we had were completely unplanned. We would see a sign that intrigued us or would want to explore more of an area so we would just get off the highway and go explore. New Zealand offers so much more than just the touristy spots you've read about. For me, its hidden treasures are what make it so beautiful.
+* {: .takeaway} *SANDFLIES* : these stupid little pests were probably my least favorite part of the whole 2 weeks. They like to be near water, so you're most likely to find them on the West Coast but honestly, I feel like they followed me the entire time. The best thing to do is use repellant and wear long sleeves but be careful... sometimes they would even bite me through my thin socks! The bites can flare up and itch at random times.
+* {: .takeaway} Paper maps/guidebooks: I'm used to using Google for everything: maps, accommodation searching, drive times, etc. However, on this trip, we faced limited data, limited cell service, and limited battery life, all of which made paper guides our biggest source of help. A friend gave me the Lonely Planet New Zealand Guidebook for my birthday last year and it was essential to finding hostels and other information.
+* {: .takeaway} Spontaneity: this is something I'm really bad at but Zora is really good at, which I definitely think made our trip so much better. Even though we had to plan things like kayaking or the swing, some of the coolest moments we had were completely unplanned. We would see a sign that intrigued us or would want to explore more of an area so we would just get off the highway and go explore. New Zealand offers so much more than just the touristy spots you've read about. For me, its hidden treasures are what make it so beautiful.

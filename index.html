@@ -8,19 +8,22 @@ title: Home
     <p>{{ site.bio }}</p>
 </div>
 
+<div class="thumbnails">
 {% for post in site.posts limit:3 %}
-<div class="thumbnail">
-	<a href="{{ post.url }}"><img src="./assets/images/{{ post.thumbnail }}" class="img-responsive" alt=""></a>
-	<h3>{{ post.title }}</h2>
+<a href="{{ post.url }}">
+  <div class="thumbnail">
+    <img src="./assets/images/{{ post.thumbnail }}" class="img-responsive" alt=""/>
+  <div class="thumbtitle">
+	   <p id="thumbp">{{ post.title }}</p>
+   </div>
 	<!--<p>{{ post.date | date_to_long_string }}</p>-->
-</div>
+</div> </a>
 {% endfor %}
+</div>
 
 <div class="more">
 	<!--<a href="archive.html">View More Posts</a>-->
 	<br>
 	<br>
-	
+
 </div>
-
-

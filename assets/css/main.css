@@ -47,6 +47,14 @@ img {
 	margin-right: auto;
 	margin-left: auto;
 }
+#wrap #top {
+	margin-right: 10%;
+	margin-left: 10%;
+}
+#wrap #top .top {
+	width: 80%;
+	margin-bottom: 8px;
+}
 
 .triple {
 	width: 50%;
@@ -61,28 +69,21 @@ img + em {
 }
 
 .thumbnail {
-	position: relative;
-	width: 100%;
+	display: inline-block;
+	width: 45%;
+	margin-left: 3%;
+	background-color: white;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .thumbnail img {
-	
 }
 
-.thumbnail h3 {
-	position: absolute;
+#wrap .thumbtitle #thumbp {
 	text-align: center;
-	top: 100px;
-	width: 100%;
-	color: white;
-	font-size: 60px;
-}
-
-.thumbnail p {
-	position: absolute;
-	text-align: center;
-	top: 160px;
-	width: 100%;
-	color: white;
+	color: black;
+	padding: 10px 20px;
+	margin-left: 0%;
+	margin-right: 0%;
 	font-size: 20px;
 }
 
@@ -93,9 +94,9 @@ img + em {
 
 .about {
 	right: 0;
-    left: 0;
-    margin-right: auto;
-    margin-left: auto;
+  left: 0;
+  margin-right: auto;
+  margin-left: auto;
 	text-align: center;
 	width: 400px;
 }
@@ -136,13 +137,20 @@ img + em {
 }
 
 #wrap p {
-	text-align: center;
-	margin-right: 5%;
-	margin-left: 5%;
+	text-align: left;
+	margin-right: 25%;
+	margin-left: 2%;
 }
 
 #wrap h2 {
 	text-align: center;
+	margin-right: 25%;
+	margin-left: 2%;
+}
+
+#wrap .takeaway {
+	margin-right: 25%;
+	margin-left: 2%;
 }
 
 #push,
