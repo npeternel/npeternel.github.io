@@ -6,64 +6,57 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Home</title>
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel ="stylesheet">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
   <link href="/assets/css/main.css" rel="stylesheet">
-	<link href='//fonts.googleapis.com/css?family=Roboto Condensed' rel='stylesheet'>
+  <link href='//fonts.googleapis.com/css?family=Roboto Condensed' rel='stylesheet'>
+  <link href="https://fonts.googleapis.com/css?family=Gothic+A1" rel="stylesheet">
 </head>
 
   <body>
 
-  	<div id="wrap">
-
     <header>
-	<nav class="navbar navbar-custom">
-    <div class="container-fluid">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="#">NP</a>
-    </div>
-
-    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-      <ul class="nav navbar-nav">
-      <li class="active"><a href="/index.html">Home</a></li>
-      <li class="active"><a href="/about.html">About</a></li><!--
-      <li><a href="archive.html">Blog Archive</a></li>
-      <li><a href="gallery.html">Photo Gallery</a></li>-->
-    </ul>
+  <div id="site-title">
+    <a id="site-title-link" href="/index.html"><h1>Nicole Peternel</h1></a>
   </div>
+	<nav class="navbar navbar-expand-lg navbar-light bg-white">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <div class="nav navbar-nav m-auto">
+        <a class="nav-link" href="/index.html">BLOG POSTS</a>
+        <a class="nav-link" href="/about.html">ABOUT ME</a><!--
+        <li><a href="archive.html">Blog Archive</a></li>
+        <li><a href="gallery.html">Photo Gallery</a></li>-->
+      </div>
+    </div>
   </nav>
 </header>
 
-    <div class="banner">
-    <h1>Nicole Peternel's Personal Website</h1>
-    <p></p>
-</div>
-
-<div class="thumbnails">
-
-<a href="/2017/03/31/sample.html">
-  <div class="thumbnail">
-    <img src="./assets/images/north/thumb.jpg" class="img-responsive" alt=""/>
-  <div class="thumbtitle">
-	   <p id="thumbp">An Overview of New Zealand's North Island</p>
-   </div>
-	<!--<p>31 March 2017</p>-->
-</div> </a>
-
-<a href="/2017/03/06/sample.html">
-  <div class="thumbnail">
-    <img src="./assets/images/south/thumb.jpg" class="img-responsive" alt=""/>
-  <div class="thumbtitle">
-	   <p id="thumbp">2 Weeks on New Zealand's South Island</p>
-   </div>
-	<!--<p>06 March 2017</p>-->
-</div> </a>
-
+    <div class="container">
+  <div class="row">
+    
+    <div class="col-sm-12 col-lg-4 m-2 px-0">
+        <a href="/2017/03/31/sample.html">
+          <div class="thumbnail-container">
+            <img src="./assets/images/north/thumb.jpg" class="img-thumbnail p-0" alt=""/>
+            <div class="thumbnail-description"><p class="thumbnail-text">An Overview of New Zealand's North Island</p></div>
+          </div>
+      <!--<p>31 March 2017</p>-->
+        </a>
+      </div>
+    
+    <div class="col-sm-12 col-lg-4 m-2 px-0">
+        <a href="/2017/03/06/sample.html">
+          <div class="thumbnail-container">
+            <img src="./assets/images/south/thumb1.jpg" class="img-thumbnail p-0" alt=""/>
+            <div class="thumbnail-description"><p class="thumbnail-text">2 Weeks on New Zealand's South Island</p></div>
+          </div>
+      <!--<p>06 March 2017</p>-->
+        </a>
+      </div>
+    
+  </div>
 </div>
 
 <div class="more">
@@ -75,13 +68,13 @@
 
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
 <script src="/assets/js/main.js"></script>
 
     <div id="push">
     </div>
 
-    <footer id="footer">
+    <!-- <footer id="footer">
 	
 	<a href="https://facebook.com/nicki.peternel" target="_blank" <i class="fa fa-facebook"></i></a>
 	
@@ -94,9 +87,8 @@
 	
 	<a href="mailto:nkpeternel@berkeley.edu" <i class="fa fa-envelope"></i></a>
 	
-</footer>
-     
-    </div> 
+</footer> -->
+
     
   </body>
 

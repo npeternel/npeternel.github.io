@@ -1,23 +1,18 @@
 <header>
-	<nav class="navbar navbar-custom">
-    <div class="container-fluid">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="#">NP</a>
-    </div>
-
-    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-      <ul class="nav navbar-nav">
-      <li class="active"><a href="{{ site.baseurl/ }}/index.html">Home</a></li>
-      <li class="active"><a href="{{ site.baseurl }}/about.html">About</a></li><!--
-      <li><a href="archive.html">Blog Archive</a></li>
-      <li><a href="gallery.html">Photo Gallery</a></li>-->
-    </ul>
+  <div id="site-title">
+    <a id="site-title-link" href="{{ site.baseurl/ }}/index.html"><h1>{{ site.title }}</h1></a>
   </div>
+	<nav class="navbar navbar-expand-lg navbar-light bg-white">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <div class="nav navbar-nav m-auto">
+        <a class="nav-link" href="{{ site.baseurl/ }}/index.html">BLOG POSTS</a>
+        <a class="nav-link" href="{{ site.baseurl }}/about.html">ABOUT ME</a><!--
+        <li><a href="archive.html">Blog Archive</a></li>
+        <li><a href="gallery.html">Photo Gallery</a></li>-->
+      </div>
+    </div>
   </nav>
 </header>

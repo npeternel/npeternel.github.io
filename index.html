@@ -2,23 +2,20 @@
 layout: default
 title: Home
 ---
-
-<div class="banner">
-    <h1>{{ site.title }}</h1>
-    <p>{{ site.bio }}</p>
-</div>
-
-<div class="thumbnails">
-{% for post in site.posts limit:3 %}
-<a href="{{ post.url }}">
-  <div class="thumbnail">
-    <img src="./assets/images/{{ post.thumbnail }}" class="img-responsive" alt=""/>
-  <div class="thumbtitle">
-	   <p id="thumbp">{{ post.title }}</p>
-   </div>
-	<!--<p>{{ post.date | date_to_long_string }}</p>-->
-</div> </a>
-{% endfor %}
+<div class="container">
+  <div class="row">
+    {% for post in site.posts limit:3 %}
+    <div class="col-sm-12 col-lg-4 m-2 px-0">
+        <a href="{{ post.url }}">
+          <div class="thumbnail-container">
+            <img src="./assets/images/{{ post.thumbnail }}" class="img-thumbnail p-0" alt=""/>
+            <div class="thumbnail-description"><p class="thumbnail-text">{{ post.title }}</p></div>
+          </div>
+      <!--<p>{{ post.date | date_to_long_string }}</p>-->
+        </a>
+      </div>
+    {% endfor %}
+  </div>
 </div>
 
 <div class="more">

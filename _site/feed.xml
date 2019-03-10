@@ -1,70 +1,93 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-07-11T16:25:20-07:00</updated><id>http://localhost:4000//</id><title type="html">Nicole Peternel’s Personal Website</title><subtitle>Personal Website</subtitle><entry><title type="html">An Overview of New Zealand’s North Island</title><link href="http://localhost:4000/2017/03/31/sample.html" rel="alternate" type="text/html" title="An Overview of New Zealand's North Island" /><published>2017-03-31T00:00:00-07:00</published><updated>2017-03-31T00:00:00-07:00</updated><id>http://localhost:4000/2017/03/31/sample</id><content type="html" xml:base="http://localhost:4000/2017/03/31/sample.html">&lt;div class=&quot;topdiv&quot;&gt;
-  &lt;p id=&quot;top&quot;&gt;&lt;img src=&quot;/assets/images/north/thumb.jpg&quot; alt=&quot;top&quot; class=&quot;top&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;p&gt;During my semester abroad at Auckland University, I had a 2 week mid-semester break, which I used to travel around the North Island of New Zealand using the Kiwi Experience bus route. Essentially, this is a pre-determined tour with various stops throughout all of New Zealand. Through this company, you can book excursions and hostels, making it very convenient for a solo backpacker like me to travel around without renting a car, worrying about being alone, etc. This post won’t go too much into the details of my time with Kiwi Experience but will instead focus on what I saw on the North Island throughout my entire semester, including other weekend trips. To make things organized, I’ll start with my weekend trips (since they were all north of the Kiwi Experience trip) and then work my way down south. At the end I have included a &lt;a href=&quot;#tips&quot;&gt;tips&lt;/a&gt; section with a summary of advice I would give to anyone about to travel through the North Island.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-10T11:45:30-07:00</updated><id>http://localhost:4000//</id><title type="html">Nicole Peternel</title><subtitle>Personal Website</subtitle><entry><title type="html">An Overview of New Zealand’s North Island</title><link href="http://localhost:4000/2017/03/31/sample.html" rel="alternate" type="text/html" title="An Overview of New Zealand's North Island" /><published>2017-03-31T00:00:00-07:00</published><updated>2017-03-31T00:00:00-07:00</updated><id>http://localhost:4000/2017/03/31/sample</id><content type="html" xml:base="http://localhost:4000/2017/03/31/sample.html">&lt;p&gt;During my semester abroad at Auckland University, I had a 2 week mid-semester break, which I used to travel around the North Island of New Zealand using the Kiwi Experience bus route. Essentially, this is a pre-determined tour with various stops throughout all of New Zealand. Through this company, you can book excursions and hostels, making it very convenient for a solo backpacker like me to travel around without renting a car, worrying about being alone, etc. This post won’t go too much into the details of my time with Kiwi Experience but will instead focus on what I saw on the North Island throughout my entire semester, including other weekend trips. To make things organized, I’ll start with my weekend trips (since they were all north of the Kiwi Experience trip) and then work my way down south. At the end I have included a &lt;a href=&quot;#tips&quot;&gt;tips&lt;/a&gt; section with a summary of advice I would give to anyone about to travel through the North Island.&lt;/p&gt;
 
 &lt;h2 id=&quot;cape-reinga&quot;&gt;Cape Reinga&lt;/h2&gt;
-&lt;p&gt;On a weekend trip, I drove up with two friends all the way to the most northern tip of New Zealand, Cape Reinga. We stayed in an Airbnb on the Karikari Peninsula so we could easily drive around the area.
-&lt;img src=&quot;/assets/images/north/dunes.jpg&quot; alt=&quot;Sand Dunes&quot; class=&quot;triple&quot; /&gt;
-&lt;em&gt;Te Paki Sand Dunes&lt;/em&gt;
-We got to slide down giant sand dunes and see the sunset at the Cape Reinga lighthouse.
-&lt;img src=&quot;/assets/images/north/reinga.jpg&quot; alt=&quot;Cape Reinga&quot; class=&quot;triple&quot; /&gt;
-&lt;em&gt;Cape Reinga at sunset&lt;/em&gt;
-On our drive back down to Auckland, we made a large detour to see New Zealand’s oldest Kauri tree.
-Overall, I am glad I got to check these three things off my New Zealand bucket list, but the drive was very much out of the way. If I were doing a trip around the North Island (which would probably start in Auckland), I’m not sure I would drive all the way up just for this.&lt;/p&gt;
+&lt;p&gt;On a weekend trip, I drove with two friends all the way up to the most northern tip of New Zealand, Cape Reinga. We stayed in an Airbnb on the Karikari Peninsula so we could easily drive around the area.&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/assets/images//north/dunes.jpg&quot; alt=&quot;Te Paki Sand Dunes&quot; class=&quot;image-fluid col-md-8&quot; /&gt;
+  &lt;!-- Te Paki Sand Dunes --&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;We got to slide down giant sand dunes on boogey boards and see the sunset at the Cape Reinga lighthouse.&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/assets/images//north/reinga.jpg&quot; alt=&quot;Cape Reinga at sunset&quot; class=&quot;image-fluid col-md-8&quot; /&gt;
+  &lt;!-- Cape Reinga at sunset --&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;On our drive back down to Auckland, we made a large, long detour to see New Zealand’s oldest Kauri tree.
+Overall, I am glad I got to check these activities off my New Zealand bucket list, but the drive was very much out of the way. If I were doing a trip around the North Island (which would probably start in Auckland), I’m not sure I would drive all the way up just for this.&lt;/p&gt;
 
 &lt;h2 id=&quot;bay-of-islands&quot;&gt;Bay of Islands&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/images/north/sailboat.jpg&quot; alt=&quot;Sailboat&quot; class=&quot;triple&quot; /&gt;
-&lt;em&gt;Our sailboat stopped at an island to allow us to swim and snorkel&lt;/em&gt;
-I went to the Bay of Islands twice and learned that the must-do activity there is sailing. The first time, I simply hiked and walked around but that won’t get you out onto the water to see what this area is all about. Though this is north of Auckland and “out of the way” of a journey throughout New Zealand, I would say that if you are willing to spend the money to go out sailing, it would be worth it. Both times, I stayed in Paihia, a cute little town on the water which has a great outdoor market of goods if you’re there at the right time.
-&lt;img src=&quot;/assets/images/north/rainbow.jpg&quot; alt=&quot;Rainbow Falls&quot; class=&quot;triple&quot; /&gt;
-&lt;em&gt;Rainbow Falls&lt;/em&gt;
-The area is also known for its waterfalls. If you are feeling a bit adventurous, I would highly recommend going to the Rainbow Falls in Kerikeri. You can swim inside and, if you’re dumb like us, jump off into the water.&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/assets/images//north/sailboat.jpg&quot; alt=&quot;Our sailboat stopped at an island to allow us to swim and snorkel&quot; class=&quot;image-fluid col-md-8&quot; /&gt;
+  &lt;!-- Our sailboat stopped at an island to allow us to swim and snorkel --&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;I went to the Bay of Islands twice and learned that the must-do activity there is sailing. The first time, I simply hiked and walked around but that won’t get you out onto the water to see what this area is all about. Though this is north of Auckland and “out of the way” of a journey headed south, if you are willing to spend the money to go out sailing, it could be worth it. Both times, I stayed in Paihia, a cute little town on the water which has a cute little outdoor market of goods.&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/assets/images//north/rainbow.jpg&quot; alt=&quot;Rainbow Falls&quot; class=&quot;image-fluid col-md-8&quot; /&gt;
+  &lt;!-- Rainbow Falls --&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;The area is also known for its waterfalls. If you are feeling a bit adventurous, I would highly recommend going to the Rainbow Falls in Kerikeri. You can swim inside and, if you’re feeling fearless and dumb like me, jump off the rocks into the water.&lt;/p&gt;
 
 &lt;h2 id=&quot;auckland&quot;&gt;Auckland&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/images/north/ferry.jpg&quot; alt=&quot;Ferry&quot; class=&quot;triple&quot; /&gt;
-&lt;em&gt;Ferry ride to Tiritiri Matangi wildlife sanctuary&lt;/em&gt;
-Even though this not somewhere I ever travelled to since I lived here, it was my home base for the semester so I got to know it fairly well and can give my feedback. To be quite honest, apart from starting or ending your travels, I wouldn’t spend too much time here. There are things to do (go up the Sky Tower, take a ferry to the nearby islands, visit museums) but they aren’t as unique as the other excursions you could experience in different parts of the country. New Zealand is all about nature, not its cities. My recommendation would be to stay a night or two just to gather your bearings when you first fly in, for example, and then start heading out to the rest of the country.
+&lt;div class=&quot;text-center&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/assets/images//north/ferry.jpg&quot; alt=&quot;Ferry ride to Tiritiri Matangi wildlife sanctuary&quot; class=&quot;image-fluid col-md-8&quot; /&gt;
+  &lt;!-- Ferry ride to Tiritiri Matangi wildlife sanctuary --&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Even though this not somewhere I ever travelled to since I lived here, because it was my home base for the semester I got to know it fairly well and can give my feedback. To be quite honest, apart from starting or ending your travels, I wouldn’t spend too much time here. There are definitely things to do (i.e. go up the Sky Tower, take a ferry to the nearby islands, visit museums) but they aren’t as unique as the other excursions you could experience in different parts of the country. New Zealand is all about nature, not its cities. My recommendation would be to stay a night or two just to gather your bearings when you first fly in, for example, and then start heading out to the rest of the country.
 (Note: Auckland is where I started my Kiwi Experience trip so all the following locations are in the order that I visited them on this one trip)&lt;/p&gt;
 
 &lt;h2 id=&quot;coromandel&quot;&gt;Coromandel&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/images/north/hotwater.jpg&quot; alt=&quot;Hot Water Beach&quot; class=&quot;triple&quot; /&gt;
-&lt;em&gt;Digging holes on Hot Water Beach at sunrise&lt;/em&gt;
-The Coromandel Peninsula is a beautiful area that many Kiwis take advantage of for beach holidays. It is home to Hot Water Beach, a natural phenomenon unlike anything I had never experienced before. Essentially, you bring a shovel out to the beach, dig yourself a little hole, and then bam! - you got yourself a hot tub. The geothermal activity underneath the beach heats up the water (be careful! it can be too hot sometimes) allowing people to make their own spas. The Coromandel is also home to Cathedral Cove, most well-known for its appearance in the Chronicles of Narnia. When I visited, the beach was closed from a recent storm, so I kayaked past it and still got to see it.&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/assets/images//north/hotwater.jpg&quot; alt=&quot;Digging holes on Hot Water Beach at sunrise&quot; class=&quot;image-fluid col-md-8&quot; /&gt;
+  &lt;!-- Digging holes on Hot Water Beach at sunrise --&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;The Coromandel Peninsula is a beautiful area that many Kiwis take advantage of for beach holidays. It is home to Hot Water Beach, a natural phenomenon unlike anything I had never experienced before. Essentially, you bring a shovel out to the beach, dig yourself a little hole, and then bam! - you got yourself a hot tub. The geothermal activity underneath the beach heats up the water (be careful! it can be very hot). The Coromandel is also home to Cathedral Cove, most well-known for its appearance in the Chronicles of Narnia. When I visited, the beach was closed from a recent storm, so I kayaked by it and still got to see it from the ocean.&lt;/p&gt;
 
 &lt;h2 id=&quot;waitomo&quot;&gt;Waitomo&lt;/h2&gt;
-&lt;p&gt;Waitomo is a stop really only for one thing and that is the glow worm caves. I had visited some free glow worm caves earlier in the semester so I didn’t pay for the cave excursion but when I go back to New Zealand, this will definitely be something I do. One man I was traveling with had been all over the world and claimed that the cave excursion was one of the best things he’s ever done.&lt;/p&gt;
+&lt;p&gt;Waitomo is a stop really only for one thing: glow worm caves. I had visited some free glow worm caves earlier in the semester so I didn’t pay for the cave excursion but, when I go back to New Zealand, this will definitely be something I want to do. One man I was traveling with had been all over the world and claimed that the cave excursion was one of the best things he’s ever done. The glow worms are truly a unique sight, giving the illusion of a night sky from inside the caves.&lt;/p&gt;
 
 &lt;h2 id=&quot;rotorua&quot;&gt;Rotorua&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/images/north/zorb.gif&quot; alt=&quot;Zorbing&quot; class=&quot;triple&quot; /&gt;
-&lt;em&gt;Zorbing!!!&lt;/em&gt;
-Rotorua is a place you could probably spend a couple days in. It’s not the cleanest city but it offers a lot of unique tourist activities. It is most well-known for its geothermal activity, so there lots of geysers and such that you can visit (beware: it smells like rotten eggs). I fulfilled my childhood dream of Zorbing, which is basically rolling down a hill in a giant hamster ball. There are also Mario Kart-like karts you can ride here (I did them in Queenstown- a ton of fun!).
-&lt;img src=&quot;/assets/images/north/tamaki.jpg&quot; alt=&quot;Tamaki Village&quot; class=&quot;triple&quot; /&gt;
-&lt;em&gt;Performance at Tamaki Village&lt;/em&gt;
-Lastly, Rotorua offers the quintessential tourist activity of experiencing the native culture. New Zealand was inhabited by the native Maori before England came over. They have done a MUCH better job of preserving their native culture than the US has. The Tamaki Village is run by a Maori family. They give you a great overview of Maori culture, from fighting to dancing to playing, and end the night with a wonderful hangi feast, which is where they cook the food underground. If you only have one chance to immerse yourself in the Maori culture while traveling in New Zealand, let this be the place.&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/assets/images//north/zorb.gif&quot; alt=&quot;Zorbing!!!&quot; class=&quot;image-fluid col-md-8&quot; /&gt;
+  &lt;!-- Zorbing!!! --&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Rotorua is a town you could spend a couple days in. It’s not the cleanest but it offers a lot of unique tourist activities. It is most well-known for its geothermal activity, so there lots of geysers that you can visit (beware: it smells like rotten eggs). I fulfilled my childhood dream of Zorbing, which is basically rolling down a hill in a giant hamster ball. There are also Mario Kart-like karts you can ride here (I did them in Queenstown- a ton of fun!).&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/assets/images//north/tamaki.jpg&quot; alt=&quot;Performance at Tamaki Village&quot; class=&quot;image-fluid col-md-8&quot; /&gt;
+  &lt;!-- Performance at Tamaki Village --&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Lastly, Rotorua offers the quintessential tourist activity of experiencing the native culture. New Zealand was inhabited by the native Maori before England came over. They have done a MUCH better job of preserving their native culture than the US has. The Tamaki Village is run by a Maori family. They give you a great overview of Maori culture, from fighting to dancing to playing, and end the night with a wonderful hangi feast, which is where they cook the food underground. If you only have one chance to immerse yourself in the Maori culture while traveling in New Zealand, let this be the place.&lt;/p&gt;
 
 &lt;h2 id=&quot;mt-maunganui&quot;&gt;Mt. Maunganui&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/images/north/mount.jpg&quot; alt=&quot;Mt. Maunganui&quot; class=&quot;triple&quot; /&gt;
-&lt;em&gt;View from the top of the Mount&lt;/em&gt;
-Mt. Maunganui is not a typical place tourists would visit– I would argue its more of a vacation spot for the Kiwis. I traveled over here to meet a friend from school who lived in the area. It is a very beautiful, beach-y area with a must-do hike up the Mount, but probably out of the way for someone road-tripping through the country.&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/assets/images//north/mount.jpg&quot; alt=&quot;View from the top of the Mount&quot; class=&quot;image-fluid col-md-8&quot; /&gt;
+  &lt;!-- View from the top of the Mount --&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Mt. Maunganui is not a typical place tourists would visit– I would argue its more of a vacation spot for the Kiwis. I traveled over here to meet a friend from school who lived in the area. It is a very beautiful, beach-y area with a must-do hike up the Mount, but probably out of the way for someone road-tripping through the country.&lt;/p&gt;
 
 &lt;h2 id=&quot;taupo&quot;&gt;Taupo&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/images/north/tongariro.jpg&quot; alt=&quot;Tongariro Crossing&quot; class=&quot;triple&quot; /&gt;
-&lt;em&gt;Emerald Lake on the Tongariro Crossing&lt;/em&gt;
-&lt;img src=&quot;/assets/images/north/doom.jpg&quot; alt=&quot;Mt. Doom&quot; class=&quot;triple&quot; /&gt;
-&lt;em&gt;Mt. Doom also on the Crossing&lt;/em&gt;
-Taupo is probably my favorite city on the North Island. It sits next to a beautiful lake and has the right balance of local and tourist vibes. Taupo is also  home to the World’s Best McDonald’s!! There are excursions you can take on the lake (I went on a sailboat) and also more adventurous excursions, such as the Tongariro Crossing or skydiving. I didn’t get the chance to go skydiving but I did do the crossing and would definitely recommend it if you are in decent shape. There are several places you can stay if you want to do the Crossing; Taupo is just one option. We had a bus take us over early in the morning and spent practically all day hiking one of the best walks in New Zealand. It is challenging (they didn’t name one set of stairs the Devil’s Staircase for nothing) but it is full of amazing views. Make sure you bring plenty of water and snacks and layers, as you would any hike.
-&lt;img src=&quot;/assets/images/north/huka.jpg&quot; alt=&quot;Huka Falls&quot; class=&quot;triple&quot; /&gt;
-Huka Falls is also an incredible sight and located just outside of Taupo. It is easily the fastest and most powerful water stream I have ever seen.&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/assets/images//north/tongariro.jpg&quot; alt=&quot;Emerald Lake on the Tongariro Crossing&quot; class=&quot;image-fluid col-md-8&quot; /&gt;
+  &lt;!-- Emerald Lake on the Tongariro Crossing --&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/assets/images//north/doom.jpg&quot; alt=&quot;Mt. Doom also on the Crossing&quot; class=&quot;image-fluid col-md-8&quot; /&gt;
+  &lt;!-- Mt. Doom also on the Crossing --&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Taupo is probably my favorite city on the North Island. It sits next to a beautiful lake and has the right balance of local and tourist vibes. Taupo is also  home to the World’s Best McDonald’s!! There are excursions you can take out on the lake (I went on a sailboat) and also excursions that are a bit more adventurous, such as the Tongariro Crossing or skydiving. I didn’t get the chance to go skydiving but I did do the Crossing and would definitely recommend it (if you are in decent shape). There are other places you can stay if you want to do the Crossing; Taupo is just one common option. We had a bus take us over early in the morning and spent practically all day hiking one of the best walks in New Zealand. It is challenging (they didn’t name one set of stairs the Devil’s Staircase for nothing) but it is full of amazing views. Make sure you bring plenty of water and snacks and layers, as you would any hike.&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/assets/images//north/huka.jpg&quot; alt=&quot;&quot; class=&quot;image-fluid col-md-8&quot; /&gt;
+  &lt;!--  --&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Huka Falls is also an incredible sight and located just outside of Taupo. It is easily the fastest and most powerful water stream I have ever seen.&lt;/p&gt;
 
 &lt;h2 id=&quot;river-valley&quot;&gt;River Valley&lt;/h2&gt;
 &lt;p&gt;River Valley was basically a stopover in the middle of nowhere on our Kiwi Experience trip between Taupo and Wellington since they are quite far apart. The hostel we stayed at offered river rafting, which many other people in the group took advantage of. There can be long stretches of driving on a road-trip, so I would recommend making stopovers like this if need be. The great thing about New Zealand is that you’ll most likely always find something to do wherever you stay, even in a place as remote as this.&lt;/p&gt;
 
 &lt;h2 id=&quot;wellington&quot;&gt;Wellington&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/images/north/cablecar.gif&quot; alt=&quot;Cable Car&quot; class=&quot;triple&quot; /&gt;
-&lt;em&gt;Cable Car overlooking Wellington&lt;/em&gt;
-Wellington is the capital of New Zealand and mostly known as a student-friendly city. As I mentioned with Auckland, New Zealand isn’t known for their cities but Wellington is a place you can definitely spend a night or two in. There are museums, great restaurants, a cable car, etc. This is also where you can take a ferry to the South Island if you are continuing your trip. For me, Wellington was as far south as I went on my trip– I headed back up north after this.&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/assets/images//north/cablecar.gif&quot; alt=&quot;Cable car ride overlooking Wellington&quot; class=&quot;image-fluid col-md-8&quot; /&gt;
+  &lt;!-- Cable car ride overlooking Wellington --&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Wellington is the capital of New Zealand and mostly known as a student-friendly city. As I mentioned with Auckland, New Zealand isn’t known for their cities but Wellington is a place you can definitely spend a night or two in. There are museums, great restaurants, a cable car, etc. This is also where you can take a ferry to the South Island if you are continuing your trip. For me, Wellington was as far south as I went on my trip– I headed back up north after this.&lt;/p&gt;
 
 &lt;p&gt;&lt;a name=&quot;tips&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -74,80 +97,120 @@ Wellington is the capital of New Zealand and mostly known as a student-friendly 
   &lt;li class=&quot;takeaway&quot;&gt;Plan out your route well. Unlike the South Island, where you can cut across the island at some points or make a nice giant loop, on the North Island, things are very spread out vertically. If you have the time, go up north from Auckland but recognize that it will be “out of the way” if you are ultimately heading South.&lt;/li&gt;
   &lt;li class=&quot;takeaway&quot;&gt;Spend a little money: While you may definitely spend money on big excursions on the South Island (especially in Queenstown), I found that the North Island might require a little bit more flexibility in budget. Things like sailing in the Bay of Islands and Taupo, glow worm caves, the Tongariro Crossing (need to pay for the bus pickup and drop-off if you don’t drive), and Hobbiton (which I didn’t visit but my dad and brother did and LOVED it) are all things that are completely worth the experience but do require some funds. There aren’t as many free things to see and do in the North as compared to the South.&lt;/li&gt;
   &lt;li class=&quot;takeaway&quot;&gt;Paper maps/guidebooks: this is a tip I also included for the South Island but it still applies. I’m used to using Google for everything: maps, accommodation searching, drive times, etc. However, on this trip, we faced limited data, limited cell service, and limited battery life, all of which made paper guides our biggest source of help. A friend gave me the Lonely Planet New Zealand Guidebook for my birthday last year and it was essential to finding hostels and other information.&lt;/li&gt;
-&lt;/ul&gt;</content><summary type="html"></summary></entry><entry><title type="html">2 Weeks on New Zealand’s South Island</title><link href="http://localhost:4000/2017/03/06/sample.html" rel="alternate" type="text/html" title="2 Weeks on New Zealand's South Island" /><published>2017-03-06T00:00:00-08:00</published><updated>2017-03-06T00:00:00-08:00</updated><id>http://localhost:4000/2017/03/06/sample</id><content type="html" xml:base="http://localhost:4000/2017/03/06/sample.html">&lt;div class=&quot;topdiv&quot;&gt;
-  &lt;p id=&quot;top&quot;&gt;&lt;img src=&quot;/assets/images/south/thumb.jpg&quot; alt=&quot;top&quot; class=&quot;top&quot; /&gt;&lt;/p&gt;
+&lt;/ul&gt;</content><summary type="html">During my semester abroad at Auckland University, I had a 2 week mid-semester break, which I used to travel around the North Island of New Zealand using the Kiwi Experience bus route. Essentially, this is a pre-determined tour with various stops throughout all of New Zealand. Through this company, you can book excursions and hostels, making it very convenient for a solo backpacker like me to travel around without renting a car, worrying about being alone, etc. This post won’t go too much into the details of my time with Kiwi Experience but will instead focus on what I saw on the North Island throughout my entire semester, including other weekend trips. To make things organized, I’ll start with my weekend trips (since they were all north of the Kiwi Experience trip) and then work my way down south. At the end I have included a tips section with a summary of advice I would give to anyone about to travel through the North Island.</summary></entry><entry><title type="html">2 Weeks on New Zealand’s South Island</title><link href="http://localhost:4000/2017/03/06/sample.html" rel="alternate" type="text/html" title="2 Weeks on New Zealand's South Island" /><published>2017-03-06T00:00:00-08:00</published><updated>2017-03-06T00:00:00-08:00</updated><id>http://localhost:4000/2017/03/06/sample</id><content type="html" xml:base="http://localhost:4000/2017/03/06/sample.html">&lt;p&gt;Before starting my semester abroad at Auckland University, my friend Zora and I spent 2 weeks road-tripping throughout the South Island of New Zealand. A lot of people told us that 2 weeks just wouldn’t be enough time. And, yes, while there are  many things we had to skip, we still felt like we saw a little bit of everything and got a good sense of what the South Island has to offer. Here, I will be sharing the details of our trip and my perspective of our unforgettable experience. For the tl;dr, you can simply read the headings of each day and click &lt;a href=&quot;#tips&quot;&gt;here&lt;/a&gt; for the advice I would give to anyone about to travel throughout the South Island.&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/assets/images//south/jucy.jpg&quot; alt=&quot;&quot; class=&quot;image-fluid col-md-8&quot; /&gt;
+  &lt;!--  --&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;p&gt;Before starting my semester abroad at Auckland University, my friend Zora and I spent 2 weeks road-tripping throughout the South Island of New Zealand. A lot of people told us that 2 weeks just wouldn’t be enough time. And, yes, while there are  many things we had to skip, we still felt like we saw a little bit of everything and got a good sense of what the South Island has to offer. Here, I will be sharing the details of our trip and my perspective of our unforgettable experience. For the tl;dr, you can simply read the headings of each day and click &lt;a href=&quot;#tips&quot;&gt;here&lt;/a&gt; for the advice I would give to anyone about to travel throughout the South Island.
-&lt;img src=&quot;/assets/images/south/jucy.jpg&quot; alt=&quot;jucy&quot; class=&quot;triple&quot; /&gt;&lt;/p&gt;
-
 &lt;h2 id=&quot;day-0-flight-into-christchurch&quot;&gt;Day 0: Flight into Christchurch&lt;/h2&gt;
-&lt;p&gt;We started our trip by taking a short 1 hour flight from Auckland to Christchurch, where we would begin and end our travels. We were delayed at the airport because of troubles with our rental car but eventually picked up our Lil Jucy, a humble Fiat Punto (shown above), and started adjusting to life on the opposite side of the road. We purchased a tent on trade.me (similar to Craigslist) and were picked it up before driving over to our hostel, the first hostel that we both had ever stayed at! We only had a few short hours before it got dark but we got some delicious Thai food and walked through the City Centre. As we had heard from many others, Christchurch is a city still under major construction after the devastating earthquake in 2011. While walking around, I felt a lot of hope for the potential this city carried, but I also felt a bit of sadness for all the work that still needed to be done. We arrived on a Tuesday, so many businesses were closed early. However, on one particular street, we saw several small restaurants open. We wondered why so many people were out on a weeknight until we realized it was Valentine’s Day… so we got gelato to console ourselves for the lack of romance in our lives.
-&lt;img src=&quot;/assets/images/south/christchurch.jpg&quot; alt=&quot;christchurch&quot; class=&quot;triple&quot; /&gt;
-&lt;em&gt;Christchurch under construction&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We started our trip by taking a short 1 hour flight from Auckland to Christchurch, where we would begin and end our travels. We were delayed at the airport because of troubles with our rental car but eventually picked up our Lil Jucy, a humble Fiat Punto (shown above), and started adjusting to life on the opposite side of the road. We purchased a tent on trade.me (similar to Craigslist) and were picked it up before driving over to our hostel, the first hostel that we both had ever stayed at! We only had a few short hours before it got dark but we got some delicious Thai food and walked through the City Centre. As we had heard from many others, Christchurch is a city still under major construction after the devastating earthquake in 2011. While walking around, I felt a lot of hope for the potential this city carried, but I also felt a bit of sadness for all the work that still needed to be done. We arrived on a Tuesday, so many businesses were closed early. However, on one particular street, we saw several small restaurants open. We wondered why so many people were out on a weeknight until we realized it was Valentine’s Day… so we got gelato to console ourselves for the lack of romance in our lives.&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/assets/images//south/christchurch.jpg&quot; alt=&quot;Christchurch under construction&quot; class=&quot;image-fluid col-md-8&quot; /&gt;
+  &lt;!-- Christchurch under construction --&gt;&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&quot;day-1-lake-tekapo-lake-pukaki-mt-cook&quot;&gt;Day 1: Lake Tekapo, Lake Pukaki, Mt. Cook&lt;/h2&gt;
-&lt;p&gt;We started the day by visiting Countdown, one of the major grocery store chains, and purchasing food that didn’t require refrigeration or hot water since we would be roughin’ it in our car. We mostly stocked up on bread, tuna, granola bars, and rice crackers. It was quite a humbling moment for me, honestly. We enjoyed our “last supper” at Denny’s and then started on the road. Our very first stop was Lake Tekapo, which was an incredible way to kick off our trip. The lake’s unique shade of blue made it one of my favorite lakes in the whole South Island.
-&lt;img src=&quot;/assets/images/south/tekapo.jpg&quot; alt=&quot;tekapo&quot; class=&quot;triple&quot; /&gt;
-&lt;em&gt;Church of the Good Shepherd and Lake Tekapo&lt;/em&gt;
-We discovered in our guide book that there were nearby hot springs (manmade), so we spent a few hours enjoying Tekapo Springs, which overlooked the lake. We hopped back into the car to drive to Mt. Cook before sundown. On the way, we stopped at Lake Pukaki and were lucky enough to see Mt. Cook from the lakeside.
-&lt;img src=&quot;/assets/images/south/pukaki.jpg&quot; alt=&quot;pukaki&quot; class=&quot;triple&quot; /&gt;
-&lt;em&gt;Mt. Cook seen from Lake Pukaki&lt;/em&gt;
-An hour later, we were in Mt. Cook National Park, preparing for our first night of camping. As the sun went down, we started to see the stars appear and were completely blown away. Little did we know that in just a few short minutes, millions of more stars would appear, marking my favorite moment of the entire trip.
-&lt;img src=&quot;/assets/images/south/mtcook1.jpg&quot; alt=&quot;mtcook1&quot; class=&quot;triple&quot; /&gt;
-&lt;em&gt;Mt. Cook National Park&lt;/em&gt;
-&lt;img src=&quot;/assets/images/south/mtcook.jpg&quot; alt=&quot;mtcook&quot; class=&quot;triple&quot; /&gt;
-&lt;em&gt;Night sky before dark&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We started the day by visiting Countdown, one of the major grocery store chains, and purchasing food that didn’t require refrigeration or hot water since we would be roughin’ it in our car. We mostly stocked up on bread, tuna, granola bars, and rice crackers. It was quite a humbling moment for me, honestly. We enjoyed our “last supper” at Denny’s and then started on the road. Our very first stop was Lake Tekapo, which was an incredible way to kick off our trip. The lake’s unique shade of blue made it one of my favorite lakes in the whole South Island.&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/assets/images//south/tekapo.jpg&quot; alt=&quot;Church of the Good Shepherd and Lake Tekapo&quot; class=&quot;image-fluid col-md-8&quot; /&gt;
+  &lt;!-- Church of the Good Shepherd and Lake Tekapo --&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;We discovered in our guide book that there were nearby hot springs (manmade), so we spent a few hours enjoying Tekapo Springs, which overlooked the lake. We hopped back into the car to drive to Mt. Cook before sundown. On the way, we stopped at Lake Pukaki and were lucky enough to see Mt. Cook from the lakeside.&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/assets/images//south/pukaki.jpg&quot; alt=&quot;Mt. Cook seen from Lake Pukaki&quot; class=&quot;image-fluid col-md-8&quot; /&gt;
+  &lt;!-- Mt. Cook seen from Lake Pukaki --&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;An hour later, we were in Mt. Cook National Park, preparing for our first night of camping. As the sun went down, we started to see the stars appear and were completely blown away. Little did we know that in just a few short minutes, millions of more stars would appear, marking my favorite moment of the entire trip.&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/assets/images//south/mtcook1.jpg&quot; alt=&quot;Mt. Cook National Park&quot; class=&quot;image-fluid col-md-8&quot; /&gt;
+  &lt;!-- Mt. Cook National Park --&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/assets/images//south/mtcook.jpg&quot; alt=&quot;Night sky before dark&quot; class=&quot;image-fluid col-md-8&quot; /&gt;
+  &lt;!-- Night sky before dark --&gt;&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&quot;day-2-dunedin&quot;&gt;Day 2: Dunedin&lt;/h2&gt;
-&lt;p&gt;We spent some of the morning walking to the Tasman Glacier (which, plot twist!!! basically doesn’t exist #globalwarmingisreal) and then began our drive to Dunedin. We stayed at Hogwartz hostel, one of our favorites, and walked around Dunedin. This ended up being my favorite city we visited for its youthful vibes contrasted with Victorian architecture. We split a pitcher of beer amongst  in the central octagon and spontaneously took a brewery tour at Speights. After our tour, we have always held a special place for Speights in our hearts.
-&lt;img src=&quot;/assets/images/south/speights.jpg&quot; alt=&quot;speights&quot; class=&quot;triple&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;We spent some of the morning walking to the Tasman Glacier (which, plot twist!!! basically doesn’t exist #globalwarmingisreal) and then began our drive to Dunedin. We stayed at Hogwartz hostel, one of our favorites, and walked around Dunedin. This ended up being my favorite city we visited for its youthful vibes contrasted with Victorian architecture. We split a pitcher of beer amongst  in the central octagon and spontaneously took a brewery tour at Speights. After our tour, we have always held a special place for Speights in our hearts.&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/assets/images//south/speights.jpg&quot; alt=&quot;&quot; class=&quot;image-fluid col-md-8&quot; /&gt;
+  &lt;!--  --&gt;&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&quot;day-3-lake-te-anau&quot;&gt;Day 3: Lake Te Anau&lt;/h2&gt;
-&lt;p&gt;The next night we randomly found a campsite and weren’t expecting much since it was such a last minute find. The location was actually right on Lake Te Anau with an incredible view of the mountains (and the stars at night!).
-&lt;img src=&quot;/assets/images/south/teanau.jpg&quot; alt=&quot;teanau&quot; class=&quot;triple&quot; /&gt;
-Unfortunately, this is where we were first introduced to sandflies and suffered the first of many bites to come.&lt;/p&gt;
+&lt;p&gt;The next night we randomly found a campsite and weren’t expecting much since it was such a last minute find. The location was actually right on Lake Te Anau with an incredible view of the mountains (and the stars at night!).&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/assets/images//south/teanau.jpg&quot; alt=&quot;&quot; class=&quot;image-fluid col-md-8&quot; /&gt;
+  &lt;!--  --&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Unfortunately, this is where we were first introduced to sandflies and suffered the first of many bites to come.&lt;/p&gt;
 
 &lt;h2 id=&quot;day-4-milford-sound&quot;&gt;Day 4: Milford Sound&lt;/h2&gt;
-&lt;p&gt;Due to poor planning, we had to wake up at 5am the next morning to drive to Milford Sound for our morning kayak. Despite the early morning, we arrived at Milford Sound on time but barely awake. We spent the next 3 hours kayaking around Milford Sound and were even lucky enough to see a penguin! Our guide told us it was only the 2nd one he had seen in the last few months. After the kayaking, we drove back to Te Anau to stay in a hostel for the night.
-&lt;img src=&quot;/assets/images/south/milford.jpg&quot; alt=&quot;milford&quot; class=&quot;triple&quot; /&gt;
-&lt;em&gt;Low quality selfie feat. high quality sea kayakers&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Due to poor planning, we had to wake up at 5am the next morning to drive to Milford Sound for our morning kayak. Despite the early morning, we arrived at Milford Sound on time but barely awake. We spent the next 3 hours kayaking around Milford Sound and were even lucky enough to see a penguin! Our guide told us it was only the 2nd one he had seen in the last few months. After the kayaking, we drove back to Te Anau to stay in a hostel for the night.&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/assets/images//south/milford.jpg&quot; alt=&quot;Low quality selfie feat. high quality sea kayakers&quot; class=&quot;image-fluid col-md-8&quot; /&gt;
+  &lt;!-- Low quality selfie feat. high quality sea kayakers --&gt;&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&quot;day-5-6-queenstown&quot;&gt;Day 5-6: Queenstown&lt;/h2&gt;
-&lt;p&gt;Even though Queenstown is one of the most popular cities on the South Island, it wasn’t our favorite for various reasons. Zora, unfortunately, got sick, and we also found it to be a much smaller town than we were expecting. There is a lot to do here but not for 2 college kids on a budget. Still, we chose the World’s Largest Swing to be our 2nd big excursion (after the kayaking). I think it was worth every penny.
-&lt;img src=&quot;/assets/images/south/swing.jpg&quot; alt=&quot;swing&quot; class=&quot;triple&quot; /&gt;
-Update: I visited Queenstown again with my family a few months later and had a much different experience. We went biking along the lake and rode karts (kinda like Mario Kart!). Queenstown is much more enjoyable when you’re willing to spend a little $$ ;)&lt;/p&gt;
+&lt;p&gt;Even though Queenstown is one of the most popular cities on the South Island, it wasn’t our favorite for various reasons. Zora, unfortunately, got sick, and we also found it to be a much smaller town than we were expecting. There is a lot to do here but not for 2 college kids on a budget. Still, we chose the World’s Largest Swing to be our 2nd big excursion (after the kayaking). I think it was worth every penny.&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/assets/images//south/swing.jpg&quot; alt=&quot;&quot; class=&quot;image-fluid col-md-8&quot; /&gt;
+  &lt;!--  --&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Update: I visited Queenstown again with my family a few months later and had a much different experience. We went biking along the lake and rode karts (kinda like Mario Kart!). Queenstown is much more enjoyable when you’re willing to spend a little $$ ;)&lt;/p&gt;
 
 &lt;h2 id=&quot;day-7-8-arrowtown-wanaka-albert-town-haast&quot;&gt;Day 7-8: Arrowtown, Wanaka, Albert Town, Haast&lt;/h2&gt;
 &lt;p&gt;The next two days were full of a lot of stops in small towns. We walked around Arrowtown, visited Puzzling World in Wanaka, and slept in a hostel in Albert Town. Zora was still in recovery mode, so we took it easy. As our luck would have it, I ended up feeling sick as soon as Zora got better. Thankfully, Zora was able to drive and we upgraded to a luxurious motel for the night (!!!).&lt;/p&gt;
 
 &lt;h2 id=&quot;day-9-fox-glacier-franz-josef&quot;&gt;Day 9: Fox Glacier, Franz Josef&lt;/h2&gt;
-&lt;p&gt;Now that we were both better, we continued on through Fox Glacier and Franz Josef. We waded through water in a tunnel, saw a glacier, and swam in a random lake. These mini adventures are what characterized much of our trip.
-&lt;img src=&quot;/assets/images/south/glacier.jpg&quot; alt=&quot;glacier&quot; class=&quot;triple&quot; /&gt;
-&lt;img src=&quot;/assets/images/south/cave.jpg&quot; alt=&quot;cave&quot; class=&quot;triple&quot; /&gt;
-We chose to camp again this night but after our illnesses we weren’t really content with the tuna and beans that were supposed to be our dinner. I finally said, “Zora. I can’t do it. I need a real dinner.” So we drove our car into town and indulged ourselves with chicken, pasta, and ICED water. I’ve realized how much I take hot meals for granted.&lt;/p&gt;
+&lt;p&gt;Now that we were both better, we continued on through Fox Glacier and Franz Josef. We waded through water in a tunnel, saw a glacier, and swam in a random lake. These mini adventures are what characterized much of our trip.&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/assets/images//south/glacier.jpg&quot; alt=&quot;&quot; class=&quot;image-fluid col-md-8&quot; /&gt;
+  &lt;!--  --&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/assets/images//south/cave.jpg&quot; alt=&quot;&quot; class=&quot;image-fluid col-md-8&quot; /&gt;
+  &lt;!--  --&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;We chose to camp again this night but after our illnesses we weren’t really content with the tuna and beans that were supposed to be our dinner. I finally said, “Zora. I can’t do it. I need a real dinner.” So we drove our car into town and indulged ourselves with chicken, pasta, and ICED water. I’ve realized how much I take hot meals for granted.&lt;/p&gt;
 
 &lt;h2 id=&quot;day-10-punakaiki&quot;&gt;Day 10: Punakaiki&lt;/h2&gt;
-&lt;p&gt;We continued our drive up the West Coast and were incredibly lucky to get the last two spots in a beautiful hostel right on the beach. Punakaiki is a very small town but full of beautiful sights. This was my overall favorite small town we stopped in.
-&lt;img src=&quot;/assets/images/south/punakaiki.jpg&quot; alt=&quot;punakaiki&quot; class=&quot;triple&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;We continued our drive up the West Coast and were incredibly lucky to get the last two spots in a beautiful hostel right on the beach. Punakaiki is a very small town but full of beautiful sights. This was my overall favorite small town we stopped in.&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/assets/images//south/punakaiki.jpg&quot; alt=&quot;&quot; class=&quot;image-fluid col-md-8&quot; /&gt;
+  &lt;!--  --&gt;&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&quot;day-11-golden-bay&quot;&gt;Day 11: Golden Bay&lt;/h2&gt;
-&lt;p&gt;We end up in Takaka, a real hippie town. After visiting a really odd beach that was completely shallow, we stumbled upon Tata Beach, surrounded by green mountains and filled with crystal clear water. At our hostel, we heard about a small concert at the local Mussell Inn, a popular bar. The opening act was spoken word, mostly about the soul, the redwoods, and weed. So… we didn’t end up staying for the concert. Anyway, the next day before heading off to Nelson, we did a small hike to Wainui Falls, an incredibly gorgeous waterfall but also home to many sandflies :)
-&lt;img src=&quot;/assets/images/south/falls.jpg&quot; alt=&quot;falls&quot; class=&quot;triple&quot; /&gt;
-&lt;em&gt;It looks a lot bigger in person, I promise&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We end up in Takaka, a real hippie town. After visiting a really odd beach that was completely shallow, we stumbled upon Tata Beach, surrounded by green mountains and filled with crystal clear water. At our hostel, we heard about a small concert at the local Mussell Inn, a popular bar. The opening act was spoken word, mostly about the soul, the redwoods, and weed. So… we didn’t end up staying for the concert. Anyway, the next day before heading off to Nelson, we did a small hike to Wainui Falls, an incredibly gorgeous waterfall but also home to many sandflies :)&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/assets/images//south/falls.jpg&quot; alt=&quot;It looks a lot bigger in person, I promise&quot; class=&quot;image-fluid col-md-8&quot; /&gt;
+  &lt;!-- It looks a lot bigger in person, I promise --&gt;&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&quot;day-12-nelson&quot;&gt;Day 12: Nelson&lt;/h2&gt;
-&lt;p&gt;Nelson was not at all what I expected. We spent a lot of our time here walking down the river, trying to find the Centre of NZ (keyword: trying, we never found it). Nelson boasts a beautiful cathedral but the highlight for me was the beach. The sky was very overcast but reflected a beautiful shade of blue in tandem with the ocean, creating an incredibly dramatic scenery. I enjoyed this view with my very first honeycomb McFlurry, an awesome added bonus.
-&lt;img src=&quot;/assets/images/south/nelson.jpg&quot; alt=&quot;nelson&quot; class=&quot;triple&quot; /&gt;
-&lt;em&gt;50 shades of blue am I right&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Nelson was not at all what I expected. We spent a lot of our time here walking down the river, trying to find the Centre of NZ (keyword: trying, we never found it). Nelson boasts a beautiful cathedral but the highlight for me was the beach. The sky was very overcast but reflected a beautiful shade of blue in tandem with the ocean, creating an incredibly dramatic scenery. I enjoyed this view with my very first honeycomb McFlurry, an awesome added bonus.&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/assets/images//south/nelson.jpg&quot; alt=&quot;50 shades of blue am I right&quot; class=&quot;image-fluid col-md-8&quot; /&gt;
+  &lt;!-- 50 shades of blue am I right --&gt;&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&quot;day-13-blenheim&quot;&gt;Day 13: Blenheim&lt;/h2&gt;
-&lt;p&gt;Our last hurrah! We drove over to Blenheim, in an area known for its wineries. We signed up for a wine bike tour and visited 7 wineries in just a few &lt;em&gt;short&lt;/em&gt; hours. The highlights included trying sparking red wine for the first time and visiting New Zealand’s top winery!
-&lt;img src=&quot;/assets/images/south/wine.jpg&quot; alt=&quot;wine&quot; class=&quot;triple&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Our last hurrah! We drove over to Blenheim, in an area known for its wineries. We signed up for a wine bike tour and visited 7 wineries in just a few &lt;em&gt;short&lt;/em&gt; hours. The highlights included trying sparking red wine for the first time and visiting New Zealand’s top winery!&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/assets/images//south/wine.jpg&quot; alt=&quot;50 shades of blue am I right&quot; class=&quot;image-fluid col-md-8&quot; /&gt;
+  &lt;!-- 50 shades of blue am I right --&gt;&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&quot;day-14-back-to-christchurch&quot;&gt;Day 14: Back to Christchurch&lt;/h2&gt;
-&lt;p&gt;After all the driving we’d done in the last 2 weeks, we still had one more leg: the 6.5 hour drive back to Christchurch. The drive was uneventful and slowed by construction. We stayed with a friend at Lincoln University and spent the whole night talking to her Kiwi hallmate about the differences between American culture and Kiwi culture. I now know that some people pronounce “z” as “zed” and Kiwis have a &lt;em&gt;way&lt;/em&gt; higher alcohol tolerance than most Americans. We flew out of Christchurch the next day and were finally back in Auckland. This trip was full of many firsts for me: my first time driving on the left side of the road, my first time traveling extensively without my family, my first time doing a long road trip, my first time staying in hostels, my first time growing sick of bread, my first time &lt;em&gt;really&lt;/em&gt; seeing the stars, and my first time taking in a new town every single day. I wouldn’t trade this experience for anything and am so glad I was able to visit the South Island when the weather was nice and before school started. I am also very grateful to Zora for putting up with my excessive planning, limited Spotify library, and relatively timid behavior. N and Z successfully travelled NZ!!
-&lt;img src=&quot;/assets/images/south/zora.jpg&quot; alt=&quot;zora&quot; class=&quot;triple&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;After all the driving we’d done in the last 2 weeks, we still had one more leg: the 6.5 hour drive back to Christchurch. The drive was uneventful and slowed by construction. We stayed with a friend at Lincoln University and spent the whole night talking to her Kiwi hallmate about the differences between American culture and Kiwi culture. I now know that some people pronounce “z” as “zed” and Kiwis have a &lt;em&gt;way&lt;/em&gt; higher alcohol tolerance than most Americans. We flew out of Christchurch the next day and were finally back in Auckland. This trip was full of many firsts for me: my first time driving on the left side of the road, my first time traveling extensively without my family, my first time doing a long road trip, my first time staying in hostels, my first time growing sick of bread, my first time &lt;em&gt;really&lt;/em&gt; seeing the stars, and my first time taking in a new town every single day. I wouldn’t trade this experience for anything and am so glad I was able to visit the South Island when the weather was nice and before school started. I am also very grateful to Zora for putting up with my excessive planning, limited Spotify library, and relatively timid behavior. N and Z successfully travelled NZ!!&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/assets/images//south/zora.jpg&quot; alt=&quot;&quot; class=&quot;image-fluid col-md-8&quot; /&gt;
+  &lt;!--  --&gt;&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;p&gt;&lt;a name=&quot;tips&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -157,4 +220,4 @@ We chose to camp again this night but after our illnesses we weren’t really co
   &lt;li class=&quot;takeaway&quot;&gt;&lt;em&gt;SANDFLIES&lt;/em&gt; : these stupid little pests were probably my least favorite part of the whole 2 weeks. They like to be near water, so you’re most likely to find them on the West Coast but honestly, I feel like they followed me the entire time. The best thing to do is use repellant and wear long sleeves but be careful… sometimes they would even bite me through my thin socks! The bites can flare up and itch at random times.&lt;/li&gt;
   &lt;li class=&quot;takeaway&quot;&gt;Paper maps/guidebooks: I’m used to using Google for everything: maps, accommodation searching, drive times, etc. However, on this trip, we faced limited data, limited cell service, and limited battery life, all of which made paper guides our biggest source of help. A friend gave me the Lonely Planet New Zealand Guidebook for my birthday last year and it was essential to finding hostels and other information.&lt;/li&gt;
   &lt;li class=&quot;takeaway&quot;&gt;Spontaneity: this is something I’m really bad at but Zora is really good at, which I definitely think made our trip so much better. Even though we had to plan things like kayaking or the swing, some of the coolest moments we had were completely unplanned. We would see a sign that intrigued us or would want to explore more of an area so we would just get off the highway and go explore. New Zealand offers so much more than just the touristy spots you’ve read about. For me, its hidden treasures are what make it so beautiful.&lt;/li&gt;
-&lt;/ul&gt;</content><summary type="html"></summary></entry></feed>
+&lt;/ul&gt;</content><summary type="html">Before starting my semester abroad at Auckland University, my friend Zora and I spent 2 weeks road-tripping throughout the South Island of New Zealand. A lot of people told us that 2 weeks just wouldn’t be enough time. And, yes, while there are  many things we had to skip, we still felt like we saw a little bit of everything and got a good sense of what the South Island has to offer. Here, I will be sharing the details of our trip and my perspective of our unforgettable experience. For the tl;dr, you can simply read the headings of each day and click here for the advice I would give to anyone about to travel throughout the South Island.</summary></entry></feed>
