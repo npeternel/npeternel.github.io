@@ -1,4 +1,4 @@
-Personal Website of Nicole Peternel
+# Personal Website of Nicole Peternel
 
 Powered by Jekyll, Bootstrap
 
