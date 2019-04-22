@@ -10,14 +10,11 @@ linkedin_username: nicole-peternel
 
 # Build settings
 markdown: kramdown
-sass:
-    sass_dir: ./_sass
 kramdown:
   parse_block_html: true
 plugins:
   - jekyll-feed
   - bootstrap-sass
-  - breakpoint
 exclude:
   - Gemfile
   - Gemfile.lock
