@@ -1,0 +1,146 @@
+@import "breakpoint";
+@import "bootstrap-sprockets";
+// @import "bootstrap/scss/mixins";
+
+// breakpoints.
+$bp-xs: 576px;
+$bp-sm: 768px;
+$bp-md: 992px;
+$bp-lg: 1200px;
+
+.about-timeline {
+    overflow: hidden;
+}
+
+.about-timeline-container {
+    position: relative;
+}
+
+.about-timeline-container::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 18px;
+    height: 100%;
+    width: 4px;
+    background: #3a3d42;
+    @include breakpoint($bp-md) {
+        left: 50%;
+        transform: translateX(-50%);
+  }
+}
+
+.about-timeline-block {
+    display: flex;
+}
+
+.about-timeline-block:nth-child(even) {
+    @include breakpoint($bp-md) {
+        flex-direction: row-reverse;
+    }
+}
+  
+.about-timeline-content {
+    flex-grow: 1;
+    text-align: center;
+
+    @include breakpoint($bp-md) {
+        width: 45%;
+        flex-grow: 0;
+    }
+}
+
+.about-timeline-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #f4a742;
+    text-align: center;
+    font-size: 1em;
+    // box-shadow: 0 0 0 4px white, inset 0 2px 0 rgba(#000, 0.08), 0 3px 0 4px rgba(#000, 0.05);
+
+    // img {
+    //     width: 24px;
+    //     height: 24px;
+    // }
+
+    @include breakpoint($bp-md) {
+        width: 60px;
+        height: 60px;
+        order: 1; // flex order -> place the image after cd-timeline__content
+        margin-left: calc(5% - 30px);
+        will-change: transform;
+
+        .about-timeline-block:nth-child(even) & {
+        margin-right: calc(5% - 30px);
+        }
+    }
+}
+
+@include breakpoint($bp-md) {
+    .about-timeline-icon--hidden, .about-timeline-content--hidden {
+      visibility: hidden;
+    }
+  
+    .about-timeline-icon--bounce-in {
+      animation: timeline-bounce-1 0.6s;
+    }
+  
+    .about-timeline-content--bounce-in {
+      animation: timeline-bounce-2 0.6s;       
+    }
+  
+    .about-timeline-block:nth-child(even) .about-timeline-content--bounce-in {
+      animation-name: timeline-bounce-2-inverse; 
+    }
+}
+
+@keyframes timeline-bounce-1 {
+    0% {
+      opacity: 0;
+      transform: scale(0.5);
+    }
+    60% {
+      opacity: 1;
+      transform: scale(1.2);
+    }
+    100% {
+      transform: scale(1);    
+    }
+  }
+  
+@keyframes timeline-bounce-2 {
+0% {
+    opacity: 0;
+    transform: translateX(-100px);   
+}
+
+60% {
+    opacity: 1;
+    transform: translateX(20px);       
+}
+
+100% {
+    transform: translateX(0);       
+}
+}
+  
+@keyframes timeline-bounce-2-inverse {
+0% {
+    opacity: 0;
+    transform: translateX(100px);   
+}
+
+60% {
+    opacity: 1;
+    transform: translateX(-20px);
+}
+
+100% {
+    transform: translateX(0);    
+}
+}

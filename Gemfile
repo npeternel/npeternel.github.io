@@ -20,5 +20,8 @@ gem "minima", "~> 2.0"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
+   gem "breakpoint", "~> 2.7.1"
    gem "jekyll-feed", "~> 0.6"
+   gem "bootstrap-sass", "~> 3.4.1"
+   gem "sassc-rails", ">= 2.1.0"
 end
