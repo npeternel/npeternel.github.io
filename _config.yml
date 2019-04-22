@@ -12,8 +12,9 @@ linkedin_username: nicole-peternel
 markdown: kramdown
 kramdown:
   parse_block_html: true
-gems:
+plugins:
   - jekyll-feed
+  - bootstrap-sass
 exclude:
   - Gemfile
   - Gemfile.lock
