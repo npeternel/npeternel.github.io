@@ -111,38 +111,32 @@
   .about-timeline-icon--hidden, .about-timeline-content--hidden {
     visibility: hidden; }
 
-  .about-timeline-icon--bounce-in {
-    animation: timeline-bounce-1 0.6s; }
+  .about-timeline-icon--in {
+    animation: about-timeline-action-icon 0.6s; }
 
-  .about-timeline-content--bounce-in {
-    animation: timeline-bounce-2 0.6s; }
+  .about-timeline-content--in {
+    animation: about-timeline-action-content 0.6s; }
 
-  .about-timeline-block:nth-child(even) .about-timeline-content--bounce-in {
-    animation-name: timeline-bounce-2-inverse; } }
-@keyframes timeline-bounce-1 {
+  .about-timeline-block:nth-child(even) .about-timeline-content--in {
+    animation-name: about-timeline-action-content-inverse; } }
+@keyframes about-timeline-action-icon {
   0% {
     opacity: 0;
     transform: scale(0.5); }
-  60% {
-    opacity: 1;
-    transform: scale(1.2); }
   100% {
+    opacity: 1;
     transform: scale(1); } }
-@keyframes timeline-bounce-2 {
+@keyframes about-timeline-action-content {
   0% {
     opacity: 0;
     transform: translateX(-100px); }
-  60% {
-    opacity: 1;
-    transform: translateX(20px); }
   100% {
+    opacity: 1;
     transform: translateX(0); } }
-@keyframes timeline-bounce-2-inverse {
+@keyframes about-timeline-action-content-inverse {
   0% {
     opacity: 0;
     transform: translateX(100px); }
-  60% {
-    opacity: 1;
-    transform: translateX(-20px); }
   100% {
+    opacity: 1;
     transform: translateX(0); } }
