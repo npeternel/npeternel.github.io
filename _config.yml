@@ -17,6 +17,7 @@ kramdown:
 plugins:
   - jekyll-feed
   - bootstrap-sass
+  - breakpoint
 exclude:
   - Gemfile
   - Gemfile.lock
