@@ -34,6 +34,22 @@
 </header>
 
       <body>
+      <div class="hidden">
+          <script type="text/javascript">
+            <!--//--><![CDATA[//><!--
+              var images = new Array()
+              function preload() {
+                for (i = 0; i < preload.arguments.length; i++) {
+                  images[i] = new Image()
+                  images[i].src = preload.arguments[i]
+                }
+              }
+              preload(
+                "http://localhost:4000/assets/images/profile.jpg",
+              )
+            //--><!]]>
+          </script>
+        </div>
 
       <div class="container">
         <div class="row justify-content-center">
