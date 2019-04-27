@@ -5,6 +5,7 @@
           this.blocks = this.element.getElementsByClassName("about-timeline-block");
           this.icons = this.element.getElementsByClassName("about-timeline-icon");
           this.contents = this.element.getElementsByClassName("about-timeline-content");
+          this.lines = this.element.getElementsByClassName("about-timeline-line");
           this.offset = 0.9;
           this.hideBlocks();
       };
@@ -17,8 +18,9 @@
           for( var i = 0; i < this.blocks.length; i++) {
               (function(i){
                   if( self.blocks[i].getBoundingClientRect().top > window.innerHeight*self.offset ) {
-                      self.icons[i].classList.add("about-timeline-icon--hidden"); 
-                      self.contents[i].classList.add("about-timeline-content--hidden"); 
+                    self.icons[i].classList.add("about-timeline--hidden"); 
+                    self.contents[i].classList.add("about-timeline--hidden"); 
+                    self.lines[i].classList.add("about-timeline--hidden");
                   }
               })(i);
           }
@@ -31,12 +33,13 @@
           var self = this;
           for( var i = 0; i < this.blocks.length; i++) {
               (function(i){
-                  if( self.contents[i].classList.contains("about-timeline-content--hidden") && self.blocks[i].getBoundingClientRect().top <= window.innerHeight*self.offset ) {
-                      // add bounce-in animation
+                  if( self.contents[i].classList.contains("about-timeline--hidden") && self.blocks[i].getBoundingClientRect().top <= window.innerHeight*self.offset ) {
                       self.icons[i].classList.add("about-timeline-icon--in");
                       self.contents[i].classList.add("about-timeline-content--in");
-                      self.icons[i].classList.remove("about-timeline-icon--hidden");
-                      self.contents[i].classList.remove("about-timeline-content--hidden");
+                      self.lines[i].classList.add("about-timeline-line--in");
+                      self.icons[i].classList.remove("about-timeline--hidden");
+                      self.contents[i].classList.remove("about-timeline--hidden");
+                      self.lines[i].classList.remove("about-timeline--hidden");
                   }        
               })(i);
           }
