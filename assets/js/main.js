@@ -33,8 +33,8 @@
               (function(i){
                   if( self.contents[i].classList.contains("about-timeline-content--hidden") && self.blocks[i].getBoundingClientRect().top <= window.innerHeight*self.offset ) {
                       // add bounce-in animation
-                      self.icons[i].classList.add("about-timeline-icon--bounce-in");
-                      self.contents[i].classList.add("about-timeline-content--bounce-in");
+                      self.icons[i].classList.add("about-timeline-icon--in");
+                      self.contents[i].classList.add("about-timeline-content--in");
                       self.icons[i].classList.remove("about-timeline-icon--hidden");
                       self.contents[i].classList.remove("about-timeline-content--hidden");
                   }        
