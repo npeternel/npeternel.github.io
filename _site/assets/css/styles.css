@@ -75,15 +75,16 @@
       transform: translateX(-50%); } }
 
 .about-timeline-block {
-  display: flex; }
+  display: flex;
+  text-align: right; }
 
 @media (min-width: 992px) {
   .about-timeline-block:nth-child(even) {
-    flex-direction: row-reverse; } }
+    flex-direction: row-reverse;
+    text-align: left; } }
 
 .about-timeline-content {
-  flex-grow: 1;
-  text-align: center; }
+  flex-grow: 1; }
   @media (min-width: 992px) {
     .about-timeline-content {
       width: 45%;
@@ -97,7 +98,7 @@
   width: 40px;
   height: 40px;
   border-radius: 50%;
-  background-color: #f4a742;
+  background-color: #f4a433;
   text-align: center;
   font-size: 1em; }
   @media (min-width: 992px) {
