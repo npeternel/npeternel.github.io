@@ -71,9 +71,6 @@ $bp-lg: 1200px;
   
 .about-timeline-content {
     flex-grow: 1;
-<<<<<<< HEAD
-    // text-align: center;
-=======
     text-align: center;
     border: 0.1em solid #e8eaed;
     border-radius: 0.5em;
@@ -81,7 +78,6 @@ $bp-lg: 1200px;
     padding: 0.5em;
     width: 40%;
     margin-bottom: 0.5em;
->>>>>>> 7d18ce055f047d449a51d7b9f14287ae9ba9dbdd
 
     @media (min-width: $bp-md) {
         flex-grow: 0;
