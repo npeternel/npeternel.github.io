@@ -122,14 +122,11 @@ body {
   background-color: #e8eaed;
   padding: 0.5em;
   width: 40%;
-  margin-bottom: 0.5em;
+  margin-bottom: 0.5em; }
   @media (min-width: 992px) {
     .about-timeline-content {
       flex-grow: 0;
-      order: 1; 
-    } 
-  }
-}
+      order: 1; } }
 
 .about-timeline-content a {
   color: #f4a742; }

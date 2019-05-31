@@ -1,3 +1,4 @@
+// $("a[href*='" + location.pathname + "']").addClass("current");
 (function(){
       function VerticalTimeline( element ) {
           this.element = element;
@@ -17,9 +18,9 @@
           for( var i = 0; i < this.blocks.length; i++) {
               (function(i){
                   if( self.blocks[i].getBoundingClientRect().top > window.innerHeight*self.offset ) {
-                      self.icons[i].classList.add("about-timeline--hidden"); 
-                      self.contents[i].classList.add("about-timeline--hidden"); 
-                      self.lines[i].classList.add("about-timeline--hidden");
+                    self.icons[i].classList.add("about-timeline--hidden"); 
+                    self.contents[i].classList.add("about-timeline--hidden"); 
+                    self.lines[i].classList.add("about-timeline--hidden");
                   }
               })(i);
           }

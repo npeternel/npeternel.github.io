@@ -8,11 +8,10 @@ permalink: about.html
       <div class="hidden">
           <script type="text/javascript">
             <!--//--><![CDATA[//><!--
-              var images = new Array()
               function preload() {
                 for (i = 0; i < preload.arguments.length; i++) {
-                  images[i] = new Image()
-                  images[i].src = preload.arguments[i]
+                  images[i] = new Image();
+                  images[i].src = preload.arguments[i];
                 }
               }
               preload(
@@ -33,7 +32,7 @@ permalink: about.html
     <section class="about-timeline js-about-timeline">
         <h2>A Brief Timeline of My Life</h2>
         <div class="container about-timeline-container">
-              {% for post in site.posts %}
+              {% for post in site.posts reversed %}
                 {% if post.path contains 'about' %}
                   <div class="about-timeline-block">
                     <div class="about-timeline-icon about-timeline-img--picture">
