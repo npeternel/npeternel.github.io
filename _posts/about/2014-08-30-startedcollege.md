@@ -1,5 +1,5 @@
 ---
-title: Started College
+title: Started College at UC Berkeley
 date: 2014-08-30
 ---
-Learned <a href="#">recursion</a> for the first time
+Learned about <a href="#">recursion</a> as well as other foundational computer science concepts
