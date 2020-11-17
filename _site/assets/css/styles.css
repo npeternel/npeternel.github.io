@@ -59,6 +59,20 @@ body {
 .post h1, h2 {
   text-align: center; }
 
+#icons {
+  text-align: center; }
+
+.fa {
+  font-size: 2em;
+  margin: auto 0.5em; }
+
+.fa:hover {
+  text-decoration: none; }
+
+#profile {
+  width: 4em;
+  height: 4em; }
+
 .about-timeline {
   margin-top: 1em;
   overflow: hidden; }

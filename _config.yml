@@ -3,10 +3,9 @@ email: nkpeternel@berkeley.edu
 description: "Personal Website"
 bio: ""
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://nickipe.me" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://nickip.me" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  npeternel
-facebook_username: nicki.peternel
-linkedin_username: nicole-peternel
+linkedin_username: npeternel
 
 # Build settings
 markdown: kramdown
