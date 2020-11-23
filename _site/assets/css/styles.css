@@ -59,6 +59,9 @@ body {
 .post h1, h2 {
   text-align: center; }
 
+.post img {
+  width: 100%; }
+
 #icons {
   text-align: center; }
 
@@ -72,6 +75,19 @@ body {
 #profile {
   width: 4em;
   height: 4em; }
+
+.project-name {
+  overflow: hidden; }
+
+.project-name p {
+  display: inline-block; }
+
+.project-label {
+  border-width: thick;
+  margin: 0.5em;
+  font-size: 0.75em;
+  border-radius: 2px;
+  background-color: #f4a433; }
 
 .about-timeline {
   margin-top: 1em;

@@ -9,10 +9,9 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <div class="nav navbar-nav m-auto">
-        <a {% if page.url == "/" %}class="nav-link current"{% else %}class="nav-link"{% endif %} href="{{ site.baseurl }}/index.html">BLOG POSTS</a>
-        <a  {% if page.url == "/about.html" %}class="nav-link current"{% else %}class="nav-link"{% endif %} href="{{ site.baseurl }}/about.html">ABOUT ME</a><!--
-        <li><a href="archive.html">Blog Archive</a></li>
-        <li><a href="gallery.html">Photo Gallery</a></li>-->
+        <a {% if page.url == "/" %}class="nav-link current"{% else %}class="nav-link"{% endif %} href="{{ site.baseurl }}/index.html">PROJECTS</a>
+        <a {% if page.url == "/guides.html" %}class="nav-link current"{% else %}class="nav-link"{% endif %} href="{{ site.baseurl }}/guides.html">TRAVEL GUIDES</a>
+        <a  {% if page.url == "/about.html" %}class="nav-link current"{% else %}class="nav-link"{% endif %} href="{{ site.baseurl }}/about.html">ABOUT ME</a>
       </div>
     </div>
   </nav>
