@@ -11,7 +11,7 @@ The Photo Framer is a Slack app that generates custom profile picture frames in 
 
 Mapbox has a custom Slack command `@mapbox` with a wide variety of commands, from meme generations to [incident response](https://blog.mapbox.com/building-on-call-mapboxs-managed-incident-response-tool-59fadd87317a).
 
-In 2020, when Hacktober, our annual Hacktober security-awareness month, was coming up, we realized we'd no longer be able to continue our annual tradition of awarding physical participation stickers because the entire company was remote.
+In 2020, when Hacktober, our annual security-awareness month, was coming up, we realized we'd no longer be able to continue our annual tradition of awarding physical participation stickers because the entire company was remote.
 
 A co-worker and I set out to solve this problem using a unique asset that every person at the company has: their Slack profile picture.
 
