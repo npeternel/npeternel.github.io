@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Photo Framer</title>
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+  <link href="/assets/css/styles.css" rel="stylesheet">
+  <link href='//fonts.googleapis.com/css?family=Roboto Condensed' rel='stylesheet'>
+  <link href="https://fonts.googleapis.com/css?family=Gothic+A1" rel="stylesheet">
+</head>
+
+  <body>
+    <script src="https://unpkg.com/vanilla-back-to-top@7.1.14/dist/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  backgroundColor: '#f4a433',
+  textColor: '#fff'
+})</script>
+
+    <div class="post container justify-content-center col-lg-6">
+
+    <header>
+  <div id="site-title">
+    <a id="site-title-link" href="/index.html"><h1>Nicki Peternel's Personal Website</h1></a>
+  </div>
+  <div id="icons">
+	
+	
+	<a href="https://github.com/npeternel" target="_blank" <i class="fa fa-github"></i></a>
+	
+	
+	<a href="https://linkedin.com/in/npeternel" target="_blank" <i class="fa fa-linkedin-square"></i></a>
+	
+	
+	<a href="mailto:nkpeternel@berkeley.edu" <i class="fa fa-envelope"></i></a>
+	
+</div>
+	<nav class="navbar navbar-expand-lg navbar-light bg-white">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <div class="nav navbar-nav m-auto">
+        <a class="nav-link" href="/index.html">PROJECTS</a>
+        <a class="nav-link" href="/guides.html">TRAVEL GUIDES</a>
+        <a  class="nav-link" href="/about.html">ABOUT ME</a>
+      </div>
+    </div>
+  </nav>
+</header>
+    <div class="text-center">
+    </div>
+    
+    <a href="http://localhost:4000/index.html">Back to Projects</a>
+    <img src="http://localhost:4000/assets/images/" alt="" class="img-fluid">
+    <h1>Photo Framer</h1>
+    <h4>01 October 2020</h4>
+      <p>The Photo Framer is a Slack app that generates custom profile picture frames in a company’s Slack workspace.</p>
+
+<!-- more -->
+
+<p>Mapbox has a custom Slack command <code class="highlighter-rouge">@mapbox</code> with a wide variety of commands, from meme generations to <a href="https://blog.mapbox.com/building-on-call-mapboxs-managed-incident-response-tool-59fadd87317a">incident response</a>.</p>
+
+<p>In 2020, when Hacktober, our annual Hacktober security-awareness month, was coming up, we realized we’d no longer be able to continue our annual tradition of awarding physical participation stickers because the entire company was remote.</p>
+
+<p>A co-worker and I set out to solve this problem using a unique asset that every person at the company has: their Slack profile picture.</p>
+
+<p>We added a new custom Slack command called <code class="highlighter-rouge">@mapbox photo-frame</code>, where a user can specify which photo frame they want to apply to their Slack profile picture. For example, if I sent the Slack message <code class="highlighter-rouge">@mapbox photo-frame hacktober2020</code>, I’d receive a direct message from our Photo Framer Slack app that automatically frames my current Slack profile picture with a fun Hacktober frame.</p>
+
+<p><img src="/assets/images/photo-framer/hacktober.png" alt="hacktober" /></p>
+
+<p>But we soon realized this didn’t need to be limited to Hacktober participation! Right as October ended, another major event was approaching: Election Day. “I Voted” stickers are typically distributed at polling places after a ballot is cast, but again, due to the limited, in-person interactions this year, most folks were probably not voting by mail or able to sport their sticker. So we added another photo frame!</p>
+
+<p><img src="/assets/images/photo-framer/i-voted.png" alt="i-voted" /></p>
+
+<p>The goal here is that as we continue to shelter-in-place, we can continue to drive virtual engagement through this Slack app. Anyone in the company can contribute their own frame - all it takes is a Pull Request with a PNG file and a 3-line code change!</p>
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+<script src="/assets/js/main.js"></script>
+
+    <div id="push">
+    </div>
+    </div>
+
+
+  </body>
+
+</html>
