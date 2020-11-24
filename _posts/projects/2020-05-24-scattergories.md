@@ -11,4 +11,4 @@ Scattergories was a solo project I undertook early on during shelter-in-place. M
 
 While the website only supports one game at a time and has a [number of additional features](https://github.com/npeternel/scattergories) I'd like to implement some day, for now it accomplished my two major desires: a deep dive into React and an eco-friendly, time-saving way to play Scattergories!
 
-Visit [scattergories.nickip.me](scattergories.nickip.me) to play!
+Visit [scattergories.nickip.me](https://scattergories.nickip.me) to play!
