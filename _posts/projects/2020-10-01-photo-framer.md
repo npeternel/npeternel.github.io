@@ -24,3 +24,7 @@ But we soon realized this didn't need to be limited to Hacktober participation! 
 ![i-voted](/assets/images/photo-framer/i-voted.png)
 
 The goal here is that as we continue to shelter-in-place, we can continue to drive virtual engagement through this Slack app. Anyone in the company can contribute their own frame - all it takes is a Pull Request with a PNG file and a 3-line code change!
+
+Let's dive into the architecture a bit further. By utilizing Slack webhook events to an AWS API Gateway, we're able to build an event-driven system powered by AWS Lambda. The photo-framer Lambda function fetches the user's original photo from AWS S3 based on the user's Slack ID. If there is no file, that means it's the user's first time getting their photo framed. We upload the original photo to S3, frame it, and then send it back to the user through the Slack API. Now, the next time the user runs this command, we can grab their original, un-framed photo and apply whatever new frame they specify!
+
+![architecture diagram](/assets/images/photo-framer/photo-frame-diagram.png)
