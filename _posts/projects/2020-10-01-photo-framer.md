@@ -3,11 +3,8 @@ layout: post
 title: Photo Framer
 date: 2020-10-01
 personal: ''
+description: Slack app that generates custom profile picture frames in a company's Slack workspace.
 ---
-
-The Photo Framer is a Slack app that generates custom profile picture frames in a company's Slack workspace.
-
-<!-- more -->
 
 Mapbox has a custom Slack command `@mapbox` with a wide variety of commands, from meme generations to [incident response](https://blog.mapbox.com/building-on-call-mapboxs-managed-incident-response-tool-59fadd87317a).
 

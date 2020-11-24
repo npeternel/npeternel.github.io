@@ -14,13 +14,12 @@ title: Home
             <p class="project-label">Personal Project</p>
             {% endif %}
           </div>
-          {% if post.content contains "<!-- more -->" %}
-          {{ post.content | split:"<!-- more -->" | first }}
+          {{ post.description }}
+          {% assign content = post.content | strip_newlines %}
+          {% if content != "" %}
           <div style="text-align:right;">
             <a href="{{ post.url }}" style="color:#000;"> Read More </a>
           </div>
-          {% else %}
-            {{ post.content }}
           {% endif %}
       </div>
       {% endif %}

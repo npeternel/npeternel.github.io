@@ -20,8 +20,8 @@
     <a href="{{ site.url }}/{% if parent == "projects" %}index{% else %}{{ parent }}{% endif %}.html">Back to {{ parent | capitalize }}</a>
     <img src="{{ site.url }}/assets/images/{{ page.thumbnail }}" alt="" class="img-fluid">
     <h1>{{ page.title }}</h1>
-    <h4>{{ page.date | date_to_long_string }}</h4>
-      {{ content }}
+    <h4 style="text-align: center;">{{ page.description }}</h4>
+    {{ content }}
 
     {% include scripts.html %}
 
